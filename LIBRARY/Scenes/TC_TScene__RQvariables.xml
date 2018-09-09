@@ -1,0 +1,113 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQvariables" itemID="5b956e79-00000b00" lastModified="1536519801">
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQvariables">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="S_crystals_varintro" fontRenderingMode="standard" left="-821.35" width="1832.45" height="217.6" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-94.85" ty="-319.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Below are some variables that might affect the amount of &#xD;crystal growth on a string in water. You can test one of&#xD;these variables in your experiment. </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="71.2" size="55" bitmapSize="1100" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_watertemp" fontRenderingMode="standard" left="-136.6" width="417.2" height="64.7" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-118.8" ty="-29.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Water Temperature</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="64.7" size="50" bitmapSize="1000" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_crystaltype" fontRenderingMode="standard" left="-145.6" width="435.2" height="64.7" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-108.9" ty="58.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The Type of Crystals</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="64.7" size="50" bitmapSize="1000" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_initialamountofcrystals" fontRenderingMode="standard" left="-386.35" width="916.7" height="64.7" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="129.7" ty="150.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The Initial Amount of crystals on the string</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="64.7" size="50" bitmapSize="1000" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_typeofstring" fontRenderingMode="standard" left="-79" width="302" height="64.7" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-179.05" ty="240.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Type of String</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="64.7" size="50" bitmapSize="1000" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="var_watertemp">
+                  <matrix>
+                    <Matrix a="-0.22491455078125" b="-0.974334716796875" c="0.974334716796875" d="-0.22491455078125" tx="-335.85" ty="3.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.45" y="1.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="var_typeofcrystals">
+                  <matrix>
+                    <Matrix a="-0.22491455078125" b="-0.974334716796875" c="0.974334716796875" d="-0.22491455078125" tx="-335.85" ty="90.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.45" y="1.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="var_initialamountofcrystals">
+                  <matrix>
+                    <Matrix a="-0.22491455078125" b="-0.974334716796875" c="0.974334716796875" d="-0.22491455078125" tx="-337.85" ty="181.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.45" y="1.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="var_typeofstring">
+                  <matrix>
+                    <Matrix a="-0.22491455078125" b="-0.974334716796875" c="0.974334716796875" d="-0.22491455078125" tx="-335.85" ty="273.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.45" y="1.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

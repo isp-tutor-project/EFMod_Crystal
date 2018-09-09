@@ -1,0 +1,74 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/animationobjects/Spoon2" itemID="5a69ea0f-00000238" lastModified="1516890640">
+  <timeline>
+    <DOMTimeline name="Spoon2">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="-0.071533203125" b="0.008758544921875" c="0.0075531005859375" d="0.0616912841796875" tx="-6.25" ty="-23.85"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.015380859375" d="0.026397705078125" tx="1.7" ty="47.15"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#797979" ratio="0"/>
+                        <GradientEntry color="#767676" ratio="0.176470588235294"/>
+                        <GradientEntry color="#3F3F3F" ratio="0.262745098039216"/>
+                        <GradientEntry color="#3A3A3A" ratio="0.450980392156863"/>
+                        <GradientEntry ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#666666"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-285 -1376S2|-184 -1376"/>
+                    <Edge fillStyle0="2" strokeStyle="1" edges="!-54 515S5[-63 520 -74 525!-74 525[-137 559 -177 656!-177 656[-234 792 -212 971!-212 971[-190 1151 -101 1269!-101 1269[-15 1388 87 1375!87 1375[189 1362 247 1227!247 1227[302 1091 280 911!280 911[258 732 171 614!171 614[109 529 38 511"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!-54 515S7|-53 522"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!-53 522S3|38 511"/>
+                    <Edge fillStyle0="1" edges="!38 511S1|47 510"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!47 510S5|-184 -1376!-285 -1376|-54 515"/>
+                    <Edge cubics="!-53 522(;-53,522 38,511 38,511q-53 522 38 511);"/>
+                    <Edge cubics="!-54 515(;-60,518 -67,522 -74,525q-54 515Q-63 520q-74 525);"/>
+                    <Edge cubics="!-54 515(;-54,515 -53,522 -53,522q-54 515 -53 522);"/>
+                    <Edge cubics="!38 511(;38,511 47,510 47,510q38 511 47 510);"/>
+                    <Edge cubics="!-74 525(;-116,548 -150,591 -177,656q-74 525Q-137 559q-177 656);"/>
+                    <Edge cubics="!171 614(;130,557 85,523 38,511q171 614Q109 529q38 511);"/>
+                    <Edge cubics="!247 1227(;284,1136 295,1031 280,911q247 1227Q302 1091q280 911);"/>
+                    <Edge cubics="!87 1375(;155,1366 208,1317 247,1227q87 1375Q189 1362q247 1227);"/>
+                    <Edge cubics="!-101 1269(;-44,1348 19,1384 87,1375q-101 1269Q-15 1388q87 1375);"/>
+                    <Edge cubics="!-212 971(;-197,1091 -160,1190 -101,1269q-212 971Q-190 1151q-101 1269);"/>
+                    <Edge cubics="!280 911(;265,792 229,693 171,614q280 911Q258 732q171 614);"/>
+                    <Edge cubics="!-177 656(;-215,747 -227,852 -212,971q-177 656Q-234 792q-212 971);"/>
+                    <Edge cubics="!47 510(;47,510 -184,-1376 -184,-1376q47 510 -184 -1376);"/>
+                    <Edge cubics="!-285 -1376(;-285,-1376 -54,515 -54,515q-285 -1376 -54 515);"/>
+                    <Edge cubics="!-285 -1376(;-285,-1376 -184,-1376 -184,-1376q-285 -1376 -184 -1376);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

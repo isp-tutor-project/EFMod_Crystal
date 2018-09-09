@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/scalenumber" itemID="5af59919-00000307" lastModified="1528806946">
+  <timeline>
+    <DOMTimeline name="scalenumber">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="33.8" height="15.7" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-20.2" ty="-8.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>7.9g</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.7" size="14" bitmapSize="280" face="PTMono-Bold" fillColor="#00FF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

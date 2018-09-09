@@ -1,0 +1,93 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro4" itemID="5b956e98-00000b04" lastModified="1536519832">
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQintro4">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CBackgroundassets/table" centerPoint3DX="-45.5" centerPoint3DY="355">
+                  <matrix>
+                    <Matrix a="2.48471069335938" d="2.2723388671875" tx="-45.5" ty="355.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/calendarnew" centerPoint3DX="374.1" centerPoint3DY="-202.75">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="374.1" ty="-202.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CScale" centerPoint3DX="-404.3" centerPoint3DY="293.6">
+                  <matrix>
+                    <Matrix a="1.469970703125" d="1.469970703125" tx="-404.3" ty="293.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CSpoon" centerPoint3DX="-56.55" centerPoint3DY="-69.35">
+                  <matrix>
+                    <Matrix a="2.27972412109375" d="2" tx="-56.6" ty="-69.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/HandDroppingorholding" centerPoint3DX="-73.5" centerPoint3DY="-216.95">
+                  <matrix>
+                    <Matrix a="1.68766784667969" d="1.68766784667969" tx="-73.55" ty="-216.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="S_wewillcontinuetoadd_2" fontRenderingMode="standard" left="-154.65" width="1832.45" height="118.4" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-761.55" ty="-474.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>We will continue to add the crystals and mix until no more crystals&#xD;can be dissolved in the water. This is the saturation point.  </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Assets/Crystals/CCrystal Assets/salt" centerPoint3DX="-5.8" centerPoint3DY="81.5">
+                  <matrix>
+                    <Matrix a="1.81103515625" d="1.81103515625" tx="-5.8" ty="81.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Crystals/CDO_Jar" centerPoint3DX="-39.7" centerPoint3DY="90.5">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="-39.7" ty="90.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Crystals/CCrystal Assets/lightersalt">
+                  <matrix>
+                    <Matrix a="1.75848388671875" d="1.75909423828125" tx="-12.6" ty="98.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

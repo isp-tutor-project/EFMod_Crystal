@@ -1,0 +1,229 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro7" itemID="5b956ea4-00000b07" lastModified="1536519844">
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQintro7">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CBackgroundassets/table" centerPoint3DX="-45.5" centerPoint3DY="355">
+                  <matrix>
+                    <Matrix a="2.48471069335938" d="2.2723388671875" tx="-45.5" ty="355.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/calendarnew" centerPoint3DX="374.1" centerPoint3DY="-202.75">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="374.1" ty="-202.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CScale" centerPoint3DX="-404.3" centerPoint3DY="293.6">
+                  <matrix>
+                    <Matrix a="1.469970703125" d="1.469970703125" tx="-404.3" ty="293.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="S_wecanmeasure" fontRenderingMode="standard" left="-154.65" width="1832.45" height="58.2" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-761.55" ty="-474.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>We can measure the weight of the crystal growth after two weeks.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Assets/CDOJarAssets/jarnew" centerPoint3DX="-39.7" centerPoint3DY="90.5">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="-39.7" ty="90.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/HandDroppingorholding" centerPoint3DX="-222.85" centerPoint3DY="-231.15">
+                  <matrix>
+                    <Matrix a="0.84381103515625" b="-1.46153259277344" c="1.46153259277344" d="0.84381103515625" tx="-222.9" ty="-231.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/pencil" centerPoint3DX="-653.4" centerPoint3DY="300.75">
+                  <matrix>
+                    <Matrix a="0.957260131835938" b="-1.2156982421875" c="1.62730407714844" d="1.2813720703125" tx="-653.5" ty="300.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/yarnnojar" centerPoint3DX="-397.5" centerPoint3DY="265.35">
+                  <matrix>
+                    <Matrix a="0.587677001953125" b="-2.006103515625" c="1.9573974609375" d="0.57342529296875" tx="-397.7" ty="265.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CDOJarAssets/distilledwater" centerPoint3DX="-16.7" centerPoint3DY="127.2">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="-16.7" ty="127.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CDOJarAssets/jarhighlights" centerPoint3DX="-15.5" centerPoint3DY="121">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="-15.5" ty="121"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Crystals/CCrystal Assets/LargerCrystalRevised">
+                  <matrix>
+                    <Matrix a="1.36053466796875" b="-1.3604736328125" c="1.06982421875" d="1.06988525390625" tx="-418.25" ty="260.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/scalenumber" selected="true">
+                  <matrix>
+                    <Matrix a="2.02508544921875" d="2.1375732421875" tx="-404.35" ty="333.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/x">
+                  <matrix>
+                    <Matrix a="1.953125" d="1.953125" tx="290" ty="-207.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/x">
+                  <matrix>
+                    <Matrix a="1.953125" d="1.953125" tx="320.9" ty="-207.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/x">
+                  <matrix>
+                    <Matrix a="1.953125" d="1.953125" tx="350.6" ty="-207.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/x">
+                  <matrix>
+                    <Matrix a="1.953125" d="1.953125" tx="383.9" ty="-207.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/x">
+                  <matrix>
+                    <Matrix a="1.953125" d="1.953125" tx="417.8" ty="-207.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/x">
+                  <matrix>
+                    <Matrix a="1.953125" d="1.953125" tx="290" ty="-177.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/x">
+                  <matrix>
+                    <Matrix a="1.953125" d="1.953125" tx="319.9" ty="-177.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/x">
+                  <matrix>
+                    <Matrix a="1.953125" d="1.953125" tx="351.6" ty="-176.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/x">
+                  <matrix>
+                    <Matrix a="1.953125" d="1.953125" tx="383.9" ty="-176.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/x">
+                  <matrix>
+                    <Matrix a="1.953125" d="1.953125" tx="417.8" ty="-176.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/x">
+                  <matrix>
+                    <Matrix tx="446.65" ty="-208.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/x">
+                  <matrix>
+                    <Matrix tx="468.6" ty="-199.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/x">
+                  <matrix>
+                    <Matrix tx="446.65" ty="-180.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/x">
+                  <matrix>
+                    <Matrix tx="466.6" ty="-171.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

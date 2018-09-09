@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Topic" itemID="5b956ecf-00000b0a" lastModified="1536519887">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Topic">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CDOJarAssets/jarnew" centerPoint3DX="158.8" centerPoint3DY="197.4">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="158.8" ty="197.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/pencil" centerPoint3DX="192.55" centerPoint3DY="9.8">
+                  <matrix>
+                    <Matrix a="1.78961181640625" d="1.98495483398438" tx="192.5" ty="9.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.15" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CDOJarAssets/yarnwithjar" centerPoint3DX="184.8" centerPoint3DY="173.8">
+                  <matrix>
+                    <Matrix a="2.09051513671875" d="2.1260986328125" tx="184.75" ty="173.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.15" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CDOJarAssets/distilledwater" centerPoint3DX="181.8" centerPoint3DY="234.1">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="181.8" ty="234.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CDOJarAssets/jarhighlights" centerPoint3DX="183" centerPoint3DY="227.9">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="183" ty="227.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Crystals/CCrystal Assets/LargerCrystalRevised">
+                  <matrix>
+                    <Matrix a="0.93060302734375" b="0.36602783203125" c="-0.36602783203125" d="0.93060302734375" tx="182" ty="187"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

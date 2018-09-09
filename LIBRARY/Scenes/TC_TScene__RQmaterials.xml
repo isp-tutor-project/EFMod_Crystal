@@ -1,0 +1,240 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQmaterials" itemID="5b956e48-00000afd" lastModified="1536519752">
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQmaterials">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/calendarnew">
+                  <matrix>
+                    <Matrix a="1.88995361328125" d="1.88995361328125" tx="-72.3" ty="-164.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/pencil">
+                  <matrix>
+                    <Matrix a="0.944992065429688" b="1.63668823242188" c="-1.63668823242188" d="0.944992065429688" tx="374.15" ty="-160.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/stringnojar">
+                  <matrix>
+                    <Matrix a="1.63671875" b="-0.9449462890625" c="1.24945068359375" d="2.1641845703125" tx="658.3" ty="-197.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CDOJarAssets/jarnew">
+                  <matrix>
+                    <Matrix a="1.79998779296875" d="1.79998779296875" tx="-591.95" ty="-191.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/distilledwater_materials">
+                  <matrix>
+                    <Matrix a="1.61996459960938" d="1.29803466796875" tx="-559.75" ty="242.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Crystals/CCrystal Assets/brownsugar">
+                  <matrix>
+                    <Matrix a="0" b="1.98442077636719" c="1.98442077636719" d="0" tx="-6.65" ty="231.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Crystals/CCrystal Assets/salt">
+                  <matrix>
+                    <Matrix a="0" b="-1.98442077636719" c="-1.98442077636719" d="0" tx="-114.8" ty="231.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Scale_materialsslide">
+                  <matrix>
+                    <Matrix a="1.37152099609375" d="1.33062744140625" tx="525.15" ty="229.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.25" y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="S_glassjar" fontRenderingMode="standard" width="202.7" height="49.2" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-670.1" ty="3.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>A glass jar </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="49.2" size="38" bitmapSize="760" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_calendar" fontRenderingMode="standard" width="144.15" height="49.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-154" ty="-16.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Calendar</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="49.2" size="38" bitmapSize="760" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_pencil" fontRenderingMode="standard" width="131.1" height="49.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="206.1" ty="-125.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>A pencil</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="49.2" size="38" bitmapSize="760" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_string" fontRenderingMode="standard" width="98.2" height="49.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="514.15" ty="-252.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>String</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="49.2" size="38" bitmapSize="760" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_distilledwater" fontRenderingMode="standard" width="243.7" height="151.6" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-682.1" ty="340.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Distilled Water&#xD;(Hot &amp; Room &#xD;Temperature)</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="49.2" size="38" bitmapSize="760" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_crystals" fontRenderingMode="standard" width="266.7" height="100.4" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-190" ty="344.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Crystals (Salt or &#xD;Brown Sugar) </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="49.2" size="38" bitmapSize="760" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_digitalscale" fontRenderingMode="standard" width="213.9" height="49.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="402.1" ty="335.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Digital Scale </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="49.2" size="38" bitmapSize="760" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_crystalsmaterials" fontRenderingMode="standard" left="-154.65" width="1832.45" height="64.7" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-761.55" ty="-476.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Here are all of the materials that may be necessary for this experiment:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="64.7" size="50" bitmapSize="1000" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Assets/Bluearrow">
+                  <matrix>
+                    <Matrix a="-0.213668823242188" b="-0.92559814453125" c="0.92559814453125" d="-0.213668823242188" tx="-778.1" ty="-166.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Bluearrow">
+                  <matrix>
+                    <Matrix a="-0.213668823242188" b="-0.92559814453125" c="0.92559814453125" d="-0.213668823242188" tx="-280.15" ty="-81.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Bluearrow">
+                  <matrix>
+                    <Matrix a="-0.213668823242188" b="-0.92559814453125" c="0.92559814453125" d="-0.213668823242188" tx="268.05" ty="-166.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Bluearrow">
+                  <matrix>
+                    <Matrix a="-0.213668823242188" b="-0.92559814453125" c="0.92559814453125" d="-0.213668823242188" tx="585.85" ty="-166.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Bluearrow">
+                  <matrix>
+                    <Matrix a="-0.213668823242188" b="-0.92559814453125" c="0.92559814453125" d="-0.213668823242188" tx="-802.1" ty="293.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Bluearrow">
+                  <matrix>
+                    <Matrix a="-0.213668823242188" b="-0.92559814453125" c="0.92559814453125" d="-0.213668823242188" tx="-254.75" ty="285.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Bluearrow">
+                  <matrix>
+                    <Matrix a="-0.213668823242188" b="-0.92559814453125" c="0.92559814453125" d="-0.213668823242188" tx="210.6" ty="284.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

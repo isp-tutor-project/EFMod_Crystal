@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/PencilStringAssets/CPencil_string" itemID="5abd4792-00000297" lastModified="1522354066" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="CPencil_string">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/pencil" selected="true" centerPoint3DY="-98.85">
+                  <matrix>
+                    <Matrix a="1.78961181640625" d="1.32086181640625" tx="-0.05" ty="-98.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.15" y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/stringnojar" selected="true" centerPoint3DX="-7.75">
+                  <matrix>
+                    <Matrix a="2.09051513671875" d="1.30076599121094" tx="-7.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

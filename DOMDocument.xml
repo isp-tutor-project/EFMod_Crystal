@@ -1,0 +1,226 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="8927091D547A30DADEC29278A6AEC965">
+     <folders>
+          <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
+          <DOMFolderItem name="_HTMLControls" itemID="5b6f4063-000003e9"/>
+          <DOMFolderItem name="_HTMLControls/TC_THtmlInput__Assets" itemID="5b5cd7d8-000002da"/>
+          <DOMFolderItem name="_HTMLControls/TC_THtmlList__Assets" itemID="5b5cea4b-000003ab"/>
+          <DOMFolderItem name="_HTMLControls/TC_THtmlTable__Assets" itemID="5b5f40d8-000002e3"/>
+          <DOMFolderItem name="_HTMLControls/TC_THtmlText__Assets" itemID="5b5cd7c7-000002d7"/>
+          <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
+          <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
+          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e"/>
+          <DOMFolderItem name="Assets/animationobjects" itemID="5af9c4a0-00000283"/>
+          <DOMFolderItem name="Assets/animationobjects/Calendar Assets" itemID="5af9c5e6-00000335"/>
+          <DOMFolderItem name="Assets/animationobjects/CBackgroundassets" itemID="5af9c5e6-00000336" isExpanded="true"/>
+          <DOMFolderItem name="Assets/animationobjects/CCrystal Assets" itemID="5af9c5e6-00000337" isExpanded="true"/>
+          <DOMFolderItem name="Assets/animationobjects/CDOJarAssets" itemID="5af9c5e6-00000338"/>
+          <DOMFolderItem name="Assets/Calendar Assets" itemID="5a9d67ac-00000072"/>
+          <DOMFolderItem name="Assets/CBackgroundassets" itemID="5a2eeae3-00000190"/>
+          <DOMFolderItem name="Assets/CDOJarAssets" itemID="5a25a583-00000047"/>
+          <DOMFolderItem name="Assets/Crystals" itemID="5abd4372-00000e2b"/>
+          <DOMFolderItem name="Assets/Crystals/CCrystal Assets" itemID="5a28146b-0000006a" isExpanded="true"/>
+          <DOMFolderItem name="Assets/Crystals/JarsVariablesCombined" itemID="5abd48a9-000002d9" isExpanded="true"/>
+          <DOMFolderItem name="Assets/PencilStringAssets" itemID="5abd4869-000002d4"/>
+          <DOMFolderItem name="Components" itemID="5b92f7fd-000020f0" isExpanded="true"/>
+          <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f" isExpanded="true"/>
+          <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
+          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="____componentassets____/TutorModule" itemID="5ad39ecb-000002ce" sourceLastImported="1512163249" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/TutorModule.png" bitmapDataHRef="M 3 1523818176.dat" frameLeft="140" frameTop="1720" frameRight="780" frameBottom="2360"/>
+     </media>
+     <symbols>
+          <Include href="_HTMLControls/TC_THtmlInput__Assets/InputContainer.xml" loadImmediate="false" itemID="5b633487-0000051f" lastModified="1533228563"/>
+          <Include href="_HTMLControls/TC_THtmlInput__Input1.xml" loadImmediate="false" itemID="5b633529-0000053e" lastModified="1533228606"/>
+          <Include href="_HTMLControls/TC_THtmlList__Assets/listbox.xml" loadImmediate="false" itemID="5b5cea34-000003a3" lastModified="1533050789"/>
+          <Include href="_HTMLControls/TC_THtmlList__List1.xml" loadImmediate="false" itemID="5b5f91b5-00000346" lastModified="1533225790"/>
+          <Include href="_HTMLControls/TC_THtmlList1__CustomList1.xml" loadImmediate="false" itemID="5b707bd7-000006c8" lastModified="1534618188"/>
+          <Include href="_HTMLControls/TC_THtmlTable__Assets/tablearea.xml" loadImmediate="false" itemID="5b5f40c1-000002dc" lastModified="1533050778"/>
+          <Include href="_HTMLControls/TC_THtmlTable__Table1.xml" loadImmediate="false" itemID="5b5f91bf-00000347" lastModified="1534019420"/>
+          <Include href="_HTMLControls/TC_THtmlText__Assets/TextArea.xml" loadImmediate="false" itemID="5b59ef22-00000313" lastModified="1533575923"/>
+          <Include href="_HTMLControls/TC_THtmlText__Text1.xml" loadImmediate="false" itemID="5b5f91c5-00000348" lastModified="1533575928"/>
+          <Include href="_Tutor Global Assets_/NavPanel Components/contentFrame.xml" loadImmediate="false" itemID="5b8db279-000005f6" lastModified="1536012921"/>
+          <Include href="_Tutor Global Assets_/SceneRegion.xml" loadImmediate="false" itemID="5ad4e5af-00000a3e" lastModified="1536514559"/>
+          <Include href="_Tutor Global Assets_/TC_TVirtual__SceneRgn.xml" loadImmediate="false" itemID="5b7745af-0000037b" lastModified="1536518598"/>
+          <Include href="_Tutor Global Assets_/TutorModule.xml" loadImmediate="false" itemID="5ad39eb8-000002c4" lastModified="1523818168"/>
+          <Include href="Assets/animationobjects/Calendar Assets/x.xml" loadImmediate="false" itemID="5af9c5e6-000003a6" lastModified="1528747745"/>
+          <Include href="Assets/animationobjects/calendarnew.xml" loadImmediate="false" itemID="5a30206e-00000045" lastModified="1528742219"/>
+          <Include href="Assets/animationobjects/CBackgroundassets/table.xml" loadImmediate="false" itemID="5a1c53c1-00000051" lastModified="1511805889"/>
+          <Include href="Assets/animationobjects/CCrystal Assets/fullgrowncrystal.xml" loadImmediate="false" itemID="5af9c5e6-00000432" lastModified="1510591259"/>
+          <Include href="Assets/animationobjects/CCrystal Assets/salt.xml" loadImmediate="false" itemID="5af9c5e6-0000044c" lastModified="1518104265"/>
+          <Include href="Assets/animationobjects/CCrystal Assets/seedcrystalsonstring.xml" loadImmediate="false" itemID="5af9c5e6-0000042f" lastModified="1509370731"/>
+          <Include href="Assets/animationobjects/CDOJarAssets/distilledwater.xml" loadImmediate="false" itemID="5af9c5e6-00000445" lastModified="1512416458"/>
+          <Include href="Assets/animationobjects/CDOJarAssets/jarhighlights.xml" loadImmediate="false" itemID="5af9c5e6-00000444" lastModified="1510591148"/>
+          <Include href="Assets/animationobjects/CDOJarAssets/jarnew.xml" loadImmediate="false" itemID="5af9c5e6-00000446" lastModified="1510590929"/>
+          <Include href="Assets/animationobjects/CHandHolding.xml" loadImmediate="false" itemID="5a32eb5e-00000102" lastModified="1513286494"/>
+          <Include href="Assets/animationobjects/CScale.xml" loadImmediate="false" itemID="5a32e6f1-00000072" lastModified="1513285361"/>
+          <Include href="Assets/animationobjects/HandDroppingBall.xml" loadImmediate="false" itemID="5a284761-00000005" lastModified="1512589154"/>
+          <Include href="Assets/animationobjects/LargerCrystal.xml" loadImmediate="false" itemID="5af9c5e6-00000431" lastModified="1518118305"/>
+          <Include href="Assets/animationobjects/LargerCrystalRevised.xml" loadImmediate="false" itemID="5af9c5e6-00000426" lastModified="1518118400"/>
+          <Include href="Assets/animationobjects/lightersalt.xml" loadImmediate="false" itemID="5af9c5e6-00000440" lastModified="1518104467"/>
+          <Include href="Assets/animationobjects/pencil.xml" loadImmediate="false" itemID="5af9c5e6-0000043b" lastModified="1509370769"/>
+          <Include href="Assets/animationobjects/Saltfalling.xml" loadImmediate="false" itemID="5af9c5e6-00000448" lastModified="1518549150"/>
+          <Include href="Assets/animationobjects/Saltfallinginjar.xml" loadImmediate="false" itemID="5af9c5e6-00000447" lastModified="1518548163"/>
+          <Include href="Assets/animationobjects/scalebutton.xml" loadImmediate="false" itemID="5af9c5e6-0000043c" lastModified="1513288839"/>
+          <Include href="Assets/animationobjects/Spoon2.xml" loadImmediate="false" itemID="5a69ea0f-00000238" lastModified="1516890640"/>
+          <Include href="Assets/animationobjects/yarnnojar.xml" loadImmediate="false" itemID="5af9c5e6-00000437" lastModified="1510845418"/>
+          <Include href="Assets/Bluearrow.xml" loadImmediate="false" itemID="5af59db1-000003d2" lastModified="1526046287"/>
+          <Include href="Assets/Calendar Assets/calendarnew.xml" loadImmediate="false" itemID="5abd43bf-00000e66" lastModified="1528128791"/>
+          <Include href="Assets/Calendar Assets/x.xml" loadImmediate="false" itemID="5a9d67b5-00000077" lastModified="1520265141"/>
+          <Include href="Assets/CBackgroundassets/table.xml" loadImmediate="false" itemID="5abd43bf-00000e67" lastModified="1525979468"/>
+          <Include href="Assets/CBackgroundassets/tablelonger.xml" loadImmediate="false" itemID="5abd4455-00000e82" lastModified="1522353237"/>
+          <Include href="Assets/CBackgroundassets/tableShort.xml" loadImmediate="false" itemID="5b92db98-000011bf" lastModified="1536351283"/>
+          <Include href="Assets/CDOJarAssets/distilledwater.xml" loadImmediate="false" itemID="5a25a4ca-0000003e" lastModified="1512416458"/>
+          <Include href="Assets/CDOJarAssets/jarhighlights.xml" loadImmediate="false" itemID="5a09caac-0000003d" lastModified="1510591148"/>
+          <Include href="Assets/CDOJarAssets/jarnew.xml" loadImmediate="false" itemID="5a09c9d1-0000001b" lastModified="1510590929"/>
+          <Include href="Assets/CDOJarAssets/yarnwithjar.xml" loadImmediate="false" itemID="5a0dac06-00000029" lastModified="1510845446"/>
+          <Include href="Assets/Crystals/CCrystal Assets/brownsugar.xml" loadImmediate="false" itemID="59f72bc1-0000006e" lastModified="1509370817"/>
+          <Include href="Assets/Crystals/CCrystal Assets/fullgrowncrystal.xml" loadImmediate="false" itemID="5a09ca3c-0000002e" lastModified="1510591259"/>
+          <Include href="Assets/Crystals/CCrystal Assets/LargerCrystal.xml" loadImmediate="false" itemID="5a7ca5a1-000002a6" lastModified="1518118305"/>
+          <Include href="Assets/Crystals/CCrystal Assets/LargerCrystalRevised.xml" loadImmediate="false" itemID="5a7ca5ff-000002db" lastModified="1518118400"/>
+          <Include href="Assets/Crystals/CCrystal Assets/lightersalt.xml" loadImmediate="false" itemID="5a7c6f93-00000246" lastModified="1518104467"/>
+          <Include href="Assets/Crystals/CCrystal Assets/salt.xml" loadImmediate="false" itemID="59f72bcb-00000072" lastModified="1518104265"/>
+          <Include href="Assets/Crystals/CCrystal Assets/Saltfalling.xml" loadImmediate="false" itemID="5a83389e-00000294" lastModified="1518549150"/>
+          <Include href="Assets/Crystals/CCrystal Assets/Saltfallinginjar.xml" loadImmediate="false" itemID="5a8334c3-0000023a" lastModified="1518548163"/>
+          <Include href="Assets/Crystals/CCrystal Assets/seedcrystalsonstring.xml" loadImmediate="false" itemID="59f72b6b-00000062" lastModified="1509370731"/>
+          <Include href="Assets/Crystals/CDO_Jar.xml" loadImmediate="false" itemID="5a25a60d-00000056" lastModified="1512416781"/>
+          <Include href="Assets/Crystals/JarsVariablesCombined/CJarBrownSugar.xml" loadImmediate="false" itemID="5a25a6bd-0000007a" lastModified="1512416957"/>
+          <Include href="Assets/Crystals/JarsVariablesCombined/CjarHotWater.xml" loadImmediate="false" itemID="5abd4529-00000ebb" lastModified="1522353449"/>
+          <Include href="Assets/Crystals/JarsVariablesCombined/CJarSalt.xml" loadImmediate="false" itemID="5a25a685-00000067" lastModified="1512416901"/>
+          <Include href="Assets/CScale.xml" loadImmediate="false" itemID="5abd43bf-00000e68" lastModified="1513285361"/>
+          <Include href="Assets/CSpoon.xml" loadImmediate="false" itemID="5abd4d2f-0000035f" lastModified="1522355503"/>
+          <Include href="Assets/distilledwater_materials.xml" loadImmediate="false" itemID="5af4abe0-00000384" lastModified="1525984224"/>
+          <Include href="Assets/HandDroppingorholding.xml" loadImmediate="false" itemID="5abd4916-000002e6" lastModified="1522354454"/>
+          <Include href="Assets/PencilStringAssets/CPencil_string.xml" loadImmediate="false" itemID="5abd4792-00000297" lastModified="1522354066"/>
+          <Include href="Assets/PencilStringAssets/CPencil_Yarn.xml" loadImmediate="false" itemID="5abd477b-00000166" lastModified="1522354043"/>
+          <Include href="Assets/PencilStringAssets/pencil.xml" loadImmediate="false" itemID="59f72b91-0000006a" lastModified="1509370769"/>
+          <Include href="Assets/PencilStringAssets/SeededStringPencil.xml" loadImmediate="false" itemID="5abd4adc-0000032e" lastModified="1522354908"/>
+          <Include href="Assets/PencilStringAssets/String_Outline.xml" loadImmediate="false" itemID="5abd4a75-00000317" lastModified="1522354805"/>
+          <Include href="Assets/PencilStringAssets/stringnojar.xml" loadImmediate="false" itemID="5a09ca01-00000027" lastModified="1510590977"/>
+          <Include href="Assets/PencilStringAssets/UnseededStringPencil.xml" loadImmediate="false" itemID="5abd4a84-0000031b" lastModified="1522354820"/>
+          <Include href="Assets/PencilStringAssets/yarnnojar.xml" loadImmediate="false" itemID="5a0dabea-00000024" lastModified="1510845418"/>
+          <Include href="Assets/Scale_materialsslide.xml" loadImmediate="false" itemID="5af4acda-000003a8" lastModified="1525984474"/>
+          <Include href="Assets/scalenumber.xml" loadImmediate="false" itemID="5af59919-00000307" lastModified="1528806946"/>
+          <Include href="Components/TC_TObject__Movie.xml" loadImmediate="false" itemID="5b956ec5-00000b08" lastModified="1536519877"/>
+          <Include href="Components/TC_TObject__Topic.xml" loadImmediate="false" itemID="5b956ecf-00000b0a" lastModified="1536519887"/>
+          <Include href="Components/TC_TObject__Vars.xml" loadImmediate="false" itemID="5b956eca-00000b09" lastModified="1536519882"/>
+          <Include href="Exports/TL_Crystal__Movie.xml" loadImmediate="false" itemID="5b956ed6-00000b0b" lastModified="1536519894"/>
+          <Include href="Exports/TL_Crystal__RQintro1.xml" loadImmediate="false" itemID="5b958710-00000f28" lastModified="1536526096"/>
+          <Include href="Exports/TL_Crystal__RQintro2.xml" loadImmediate="false" itemID="5b958714-00000f29" lastModified="1536526100"/>
+          <Include href="Exports/TL_Crystal__RQintro3.xml" loadImmediate="false" itemID="5b958718-00000f2a" lastModified="1536526104"/>
+          <Include href="Exports/TL_Crystal__RQintro4.xml" loadImmediate="false" itemID="5b95871c-00000f2b" lastModified="1536526108"/>
+          <Include href="Exports/TL_Crystal__RQintro5.xml" loadImmediate="false" itemID="5b958722-00000f2c" lastModified="1536526114"/>
+          <Include href="Exports/TL_Crystal__RQintro6.xml" loadImmediate="false" itemID="5b958727-00000f2d" lastModified="1536526119"/>
+          <Include href="Exports/TL_Crystal__RQintro7.xml" loadImmediate="false" itemID="5b95873a-00000f36" lastModified="1536526138"/>
+          <Include href="Exports/TL_Crystal__RQmaterials.xml" loadImmediate="false" itemID="5b95872a-00000f2e" lastModified="1536526122"/>
+          <Include href="Exports/TL_Crystal__RQmovie.xml" loadImmediate="false" itemID="5b95872e-00000f2f" lastModified="1536526126"/>
+          <Include href="Exports/TL_Crystal__RQvariables.xml" loadImmediate="false" itemID="5b958731-00000f30" lastModified="1536526129"/>
+          <Include href="Exports/TL_Crystal__Topic.xml" loadImmediate="false" itemID="5b956ee2-00000b0c" lastModified="1536519906"/>
+          <Include href="Exports/TL_Crystal__Vars.xml" loadImmediate="false" itemID="5b956ee7-00000b0d" lastModified="1536519911"/>
+          <Include href="Scenes/TC_TScene__RQintro1.xml" loadImmediate="false" itemID="5b956e88-00000b01" lastModified="1536519816"/>
+          <Include href="Scenes/TC_TScene__RQintro2.xml" loadImmediate="false" itemID="5b956e90-00000b02" lastModified="1536519824"/>
+          <Include href="Scenes/TC_TScene__RQintro3.xml" loadImmediate="false" itemID="5b956e94-00000b03" lastModified="1536519828"/>
+          <Include href="Scenes/TC_TScene__RQintro4.xml" loadImmediate="false" itemID="5b956e98-00000b04" lastModified="1536519832"/>
+          <Include href="Scenes/TC_TScene__RQintro5.xml" loadImmediate="false" itemID="5b956e9b-00000b05" lastModified="1536519835"/>
+          <Include href="Scenes/TC_TScene__RQintro6.xml" loadImmediate="false" itemID="5b956ea0-00000b06" lastModified="1536519840"/>
+          <Include href="Scenes/TC_TScene__RQintro7.xml" loadImmediate="false" itemID="5b956ea4-00000b07" lastModified="1536519844"/>
+          <Include href="Scenes/TC_TScene__RQmaterials.xml" loadImmediate="false" itemID="5b956e48-00000afd" lastModified="1536519752"/>
+          <Include href="Scenes/TC_TScene__RQmovie.xml" loadImmediate="false" itemID="5b95850e-00000db0" lastModified="1536525617"/>
+          <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b956e79-00000b00" lastModified="1536519801"/>
+          <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Actions" color="#00FFFF" locked="true" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[stop();]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Scene Bounds" color="#FF00FF" locked="true" outline="true" useOutlineView="true" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/SceneRegion">
+                                             <transformationPoint>
+                                                  <Point x="959.95" y="600"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Module Content" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Module Component" color="#00FFFF" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMComponentInstance libraryItemName="_Tutor Global Assets_/TutorModule" uniqueID="1">
+                                             <matrix>
+                                                  <Matrix tx="910" ty="550"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="50" y="50"/>
+                                             </transformationPoint>
+                                             <parametersAsXML><![CDATA[   <property id="compositionID">
+      <Inspectable name="compositionID" variable="compositionID" category="" verbose="0" defaultValue="8927091D547A30DADEC29278A6AEC965" type="String"/>
+   </property>
+   <property id="__ComponentType__">
+      <Inspectable name="__ComponentType__" variable="__ComponentType__" category="" verbose="0" defaultValue="1" type="Number"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>
