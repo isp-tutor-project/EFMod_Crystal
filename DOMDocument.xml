@@ -130,7 +130,7 @@
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="Scene 1">
+          <DOMTimeline name="Scene 1" currentFrame="10">
                <layers>
                     <DOMLayer name="Actions" color="#00FFFF" locked="true" autoNamed="false" visible="false">
                          <frames>
@@ -139,19 +139,6 @@
                                         <script><![CDATA[stop();]]></script>
                                    </Framescript>
                                    <elements/>
-                              </DOMFrame>
-                         </frames>
-                    </DOMLayer>
-                    <DOMLayer name="Scene Bounds" color="#FF00FF" locked="true" outline="true" useOutlineView="true" autoNamed="false" visible="false">
-                         <frames>
-                              <DOMFrame index="0" duration="10" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/SceneRegion">
-                                             <transformationPoint>
-                                                  <Point x="959.95" y="600"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
@@ -187,6 +174,30 @@
                               <DOMFrame index="9" keyMode="9728">
                                    <elements/>
                               </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Components/TC_TObject__Topic" selected="true" cacheAsBitmap="true">
+                                             <matrix>
+                                                  <Matrix tx="-66.2" ty="308.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="182.25" y="197.45"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Components/TC_TObject__Vars">
+                                             <matrix>
+                                                  <Matrix tx="-63.2" ty="329.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="276.1" y="264.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
                          </frames>
                     </DOMLayer>
                     <DOMLayer name="Module Component" color="#00FFFF" autoNamed="false" visible="false">
@@ -205,7 +216,8 @@
    </property>
    <property id="__ComponentType__">
       <Inspectable name="__ComponentType__" variable="__ComponentType__" category="" verbose="0" defaultValue="1" type="Number"/>
-   </property>]]></parametersAsXML>
+   </property>
+]]></parametersAsXML>
                                         </DOMComponentInstance>
                                    </elements>
                               </DOMFrame>
@@ -218,10 +230,7 @@
           <GlobalScripts language="Javascript"/>
      </scripts>
      <persistentData>
-          <PD n="CreateJSToolkit_timelinedata" v="version
-0.1
-loop
-true"/>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
      </persistentData>
      <PrinterSettings/>
      <publishHistory/>
