@@ -1,4 +1,7 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQmaterials" itemID="5b956e48-00000afd" lastModified="1536519752">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQmaterials" itemID="5b956e48-00000afd" linkageExportForAS="true" linkageClassName="TC_TScene__RQmaterials" lastModified="1537047573">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
   <timeline>
     <DOMTimeline name="TC_TScene__RQmaterials">
       <layers>
@@ -8,7 +11,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/calendarnew">
                   <matrix>
-                    <Matrix a="1.88995361328125" d="1.88995361328125" tx="-72.3" ty="-164.15"/>
+                    <Matrix a="1.69387817382813" d="1.69387817382813" tx="898.55" ty="459.2"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.05" y="0.05"/>
@@ -16,7 +19,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/pencil">
                   <matrix>
-                    <Matrix a="0.944992065429688" b="1.63668823242188" c="-1.63668823242188" d="0.944992065429688" tx="374.15" ty="-160.7"/>
+                    <Matrix a="0.846954345703125" b="1.46688842773438" c="-1.46688842773438" d="0.846954345703125" tx="1298.65" ty="462.3"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.1" y="-0.05"/>
@@ -24,7 +27,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/stringnojar">
                   <matrix>
-                    <Matrix a="1.63671875" b="-0.9449462890625" c="1.24945068359375" d="2.1641845703125" tx="658.3" ty="-197.85"/>
+                    <Matrix a="1.46690368652344" b="-0.846908569335938" c="1.11981201171875" d="1.93965148925781" tx="1553.35" ty="429"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.05" y="0.05"/>
@@ -32,15 +35,15 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/CDOJarAssets/jarnew">
                   <matrix>
-                    <Matrix a="1.79998779296875" d="1.79998779296875" tx="-591.95" ty="-191.8"/>
+                    <Matrix a="1.61323547363281" d="1.61323547363281" tx="432.8" ty="434.4"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="0.05" y="0.05"/>
+                    <Point x="0.05" y="0.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/distilledwater_materials">
                   <matrix>
-                    <Matrix a="1.61996459960938" d="1.29803466796875" tx="-559.75" ty="242.15"/>
+                    <Matrix a="1.45188903808594" d="1.16336059570313" tx="461.65" ty="823.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.05" y="0.15"/>
@@ -48,15 +51,15 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/Crystals/CCrystal Assets/brownsugar">
                   <matrix>
-                    <Matrix a="0" b="1.98442077636719" c="1.98442077636719" d="0" tx="-6.65" ty="231.85"/>
+                    <Matrix a="0" b="1.77853393554688" c="1.77853393554688" d="0" tx="957.35" ty="814.1"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="0.05" y="0.05"/>
+                    <Point x="0.1" y="0.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/Crystals/CCrystal Assets/salt">
                   <matrix>
-                    <Matrix a="0" b="-1.98442077636719" c="-1.98442077636719" d="0" tx="-114.8" ty="231.95"/>
+                    <Matrix a="0" b="-1.77853393554688" c="-1.77853393554688" d="0" tx="860.45" ty="814.2"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.05" y="-0.05"/>
@@ -64,15 +67,15 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/Scale_materialsslide">
                   <matrix>
-                    <Matrix a="1.37152099609375" d="1.33062744140625" tx="525.15" ty="229.45"/>
+                    <Matrix a="1.22923278808594" d="1.19258117675781" tx="1434" ty="811.95"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="0.25" y="0.15"/>
+                    <Point x="0.3" y="0.15"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
                 <DOMDynamicText name="S_glassjar" fontRenderingMode="standard" width="202.7" height="49.2" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-670.1" ty="3.95"/>
+                    <Matrix a="0.896255493164063" d="0.896255493164063" tx="362.75" ty="609.85"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -85,7 +88,7 @@
                 </DOMDynamicText>
                 <DOMDynamicText name="S_calendar" fontRenderingMode="standard" width="144.15" height="49.2" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-154" ty="-16.4"/>
+                    <Matrix a="0.896255493164063" d="0.896255493164063" tx="825.3" ty="591.6"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -98,7 +101,7 @@
                 </DOMDynamicText>
                 <DOMDynamicText name="S_pencil" fontRenderingMode="standard" width="131.1" height="49.2" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="206.1" ty="-125.15"/>
+                    <Matrix a="0.896255493164063" d="0.896255493164063" tx="1148.05" ty="494.15"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -111,7 +114,7 @@
                 </DOMDynamicText>
                 <DOMDynamicText name="S_string" fontRenderingMode="standard" width="98.2" height="49.2" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="514.15" ty="-252.5"/>
+                    <Matrix a="0.896255493164063" d="0.896255493164063" tx="1424.15" ty="380"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -124,7 +127,7 @@
                 </DOMDynamicText>
                 <DOMDynamicText name="S_distilledwater" fontRenderingMode="standard" width="243.7" height="151.6" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-682.1" ty="340.7"/>
+                    <Matrix a="0.896255493164063" d="0.896255493164063" tx="352" ty="911.7"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -137,7 +140,7 @@
                 </DOMDynamicText>
                 <DOMDynamicText name="S_crystals" fontRenderingMode="standard" width="266.7" height="100.4" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-190" ty="344.7"/>
+                    <Matrix a="0.896255493164063" d="0.896255493164063" tx="793.05" ty="915.25"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -150,7 +153,7 @@
                 </DOMDynamicText>
                 <DOMDynamicText name="S_digitalscale" fontRenderingMode="standard" width="213.9" height="49.2" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="402.1" ty="335.65"/>
+                    <Matrix a="0.896255493164063" d="0.896255493164063" tx="1323.7" ty="907.15"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -163,7 +166,7 @@
                 </DOMDynamicText>
                 <DOMDynamicText name="S_crystalsmaterials" fontRenderingMode="standard" left="-154.65" width="1832.45" height="64.7" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-761.55" ty="-476.55"/>
+                    <Matrix tx="207.15" ty="123.5"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -174,60 +177,94 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Assets/Bluearrow">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__arrow" name="Sarrow1">
                   <matrix>
-                    <Matrix a="-0.213668823242188" b="-0.92559814453125" c="0.92559814453125" d="-0.213668823242188" tx="-778.1" ty="-166.45"/>
+                    <Matrix a="-0.191497802734375" b="-0.829559326171875" c="0.829559326171875" d="-0.191497802734375" tx="265.95" ty="457.15"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.25" y="0.05"/>
                   </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="15" blurY="15" color="#666666" distance="15" quality="2"/>
+                  </filters>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Bluearrow">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__arrow" name="Sarrow2">
                   <matrix>
-                    <Matrix a="-0.213668823242188" b="-0.92559814453125" c="0.92559814453125" d="-0.213668823242188" tx="-280.15" ty="-81.25"/>
+                    <Matrix a="-0.191497802734375" b="-0.829559326171875" c="0.829559326171875" d="-0.191497802734375" tx="712.25" ty="533.5"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.25" y="0.05"/>
                   </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="15" blurY="15" color="#666666" distance="15" quality="2"/>
+                  </filters>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Bluearrow">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__arrow" name="Sarrow3">
                   <matrix>
-                    <Matrix a="-0.213668823242188" b="-0.92559814453125" c="0.92559814453125" d="-0.213668823242188" tx="268.05" ty="-166.45"/>
+                    <Matrix a="-0.191497802734375" b="-0.829559326171875" c="0.829559326171875" d="-0.191497802734375" tx="1203.55" ty="457.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.1"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="15" blurY="15" color="#666666" distance="15" quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__arrow" name="Sarrow4">
+                  <matrix>
+                    <Matrix a="-0.191497802734375" b="-0.829559326171875" c="0.829559326171875" d="-0.191497802734375" tx="1488.4" ty="457.15"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.25" y="0.05"/>
                   </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="15" blurY="15" color="#666666" distance="15" quality="2"/>
+                  </filters>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Bluearrow">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__arrow" name="Sarrow5">
                   <matrix>
-                    <Matrix a="-0.213668823242188" b="-0.92559814453125" c="0.92559814453125" d="-0.213668823242188" tx="585.85" ty="-166.45"/>
+                    <Matrix a="-0.191497802734375" b="-0.829559326171875" c="0.829559326171875" d="-0.191497802734375" tx="244.45" ty="869.1"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.25" y="0.05"/>
                   </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="15" blurY="15" color="#666666" distance="15" quality="2"/>
+                  </filters>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Bluearrow">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__arrow" name="Sarrow6">
                   <matrix>
-                    <Matrix a="-0.213668823242188" b="-0.92559814453125" c="0.92559814453125" d="-0.213668823242188" tx="-802.1" ty="293.2"/>
+                    <Matrix a="-0.191497802734375" b="-0.829559326171875" c="0.829559326171875" d="-0.191497802734375" tx="735" ty="861.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.25" y="0.05"/>
                   </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="15" blurY="15" color="#666666" distance="15" quality="2"/>
+                  </filters>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Bluearrow">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__arrow" name="Sarrow7">
                   <matrix>
-                    <Matrix a="-0.213668823242188" b="-0.92559814453125" c="0.92559814453125" d="-0.213668823242188" tx="-254.75" ty="285.2"/>
+                    <Matrix a="-0.191497802734375" b="-0.829559326171875" c="0.829559326171875" d="-0.191497802734375" tx="1152.1" ty="861.6"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.25" y="0.05"/>
                   </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="15" blurY="15" color="#666666" distance="15" quality="2"/>
+                  </filters>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Bluearrow">
-                  <matrix>
-                    <Matrix a="-0.213668823242188" b="-0.92559814453125" c="0.92559814453125" d="-0.213668823242188" tx="210.6" ty="284.8"/>
-                  </matrix>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn">
                   <transformationPoint>
-                    <Point x="-0.25" y="0.05"/>
+                    <Point x="960" y="600"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>

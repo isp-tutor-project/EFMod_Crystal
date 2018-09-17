@@ -71,7 +71,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="var_watertemp">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__arrow" name="var_watertemp">
                   <matrix>
                     <Matrix a="-0.22491455078125" b="-0.974334716796875" c="0.974334716796875" d="-0.22491455078125" tx="-335.85" ty="3.2"/>
                   </matrix>
@@ -79,7 +79,7 @@
                     <Point x="-3.45" y="1.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="var_typeofcrystals">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__arrow" name="var_typeofcrystals">
                   <matrix>
                     <Matrix a="-0.22491455078125" b="-0.974334716796875" c="0.974334716796875" d="-0.22491455078125" tx="-335.85" ty="90.15"/>
                   </matrix>
@@ -87,7 +87,7 @@
                     <Point x="-3.45" y="1.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="var_initialamountofcrystals">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__arrow" name="var_initialamountofcrystals">
                   <matrix>
                     <Matrix a="-0.22491455078125" b="-0.974334716796875" c="0.974334716796875" d="-0.22491455078125" tx="-337.85" ty="181.9"/>
                   </matrix>
@@ -95,7 +95,7 @@
                     <Point x="-3.45" y="1.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="var_typeofstring">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__arrow" name="var_typeofstring">
                   <matrix>
                     <Matrix a="-0.22491455078125" b="-0.974334716796875" c="0.974334716796875" d="-0.22491455078125" tx="-335.85" ty="273.65"/>
                   </matrix>

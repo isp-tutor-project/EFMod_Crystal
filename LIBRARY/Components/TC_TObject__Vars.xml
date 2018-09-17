@@ -1,12 +1,15 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b956eca-00000b09" lastModified="1536519882">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b956eca-00000b09" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1537140659">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
   <timeline>
     <DOMTimeline name="TC_TObject__Vars">
       <layers>
-        <DOMLayer name="Svar3a" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Svar3a" color="#9933CC" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/UnseededStringPencil" name="Svar3a">
+                <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/TC_TObject__UnseededStringPencil" name="Svar3a" cacheAsBitmap="true">
                   <matrix>
                     <Matrix tx="276.2" ty="237.35"/>
                   </matrix>
@@ -18,11 +21,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar3b" color="#FF800A" autoNamed="false">
+        <DOMLayer name="Svar3b" color="#FF800A" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/SeededStringPencil" name="Svar3b">
+                <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/TC_TObject__SeededStringPencil" name="Svar3b" cacheAsBitmap="true">
                   <matrix>
                     <Matrix tx="276.2" ty="237.35"/>
                   </matrix>
@@ -34,11 +37,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar4b" color="#FF4FFF" autoNamed="false">
+        <DOMLayer name="Svar4b" color="#FF4FFF" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/CPencil_Yarn" name="Svar4b">
+                <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/TC_TObject__CPencil_Yarn" name="Svar4b" cacheAsBitmap="true">
                   <matrix>
                     <Matrix a="0.976730346679688" d="1.24119567871094" tx="276.2" ty="240.4"/>
                   </matrix>
@@ -50,11 +53,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar4a" color="#009999" autoNamed="false">
+        <DOMLayer name="Svar4a" color="#009999" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/CPencil_string" name="Svar4a">
+                <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/TC_TObject__CPencil_string" name="Svar4a" cacheAsBitmap="true">
                   <matrix>
                     <Matrix a="0.965118408203125" d="1.25999450683594" tx="276.2" ty="242.35"/>
                   </matrix>
@@ -66,11 +69,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar1a" color="#FF0000" autoNamed="false">
+        <DOMLayer name="Svar1a" color="#FF0000" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Crystals/JarsVariablesCombined/CjarHotWater" name="Svar1a" centerPoint3DX="225.25" centerPoint3DY="234.35">
+                <DOMSymbolInstance libraryItemName="Assets/Crystals/JarsVariablesCombined/TC_TObject__CjarHotWater" name="Svar1b" cacheAsBitmap="true" centerPoint3DX="225.25" centerPoint3DY="234.35">
                   <matrix>
                     <Matrix a="1.5" d="1.5" tx="225.2" ty="234.3"/>
                   </matrix>
@@ -82,11 +85,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar1b" color="#669900" autoNamed="false">
+        <DOMLayer name="Svar1b" color="#669900" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Crystals/CDO_Jar" name="Svar1b" centerPoint3DX="225.25" centerPoint3DY="276">
+                <DOMSymbolInstance libraryItemName="Assets/Crystals/TC_TObject__CDO_Jar" name="Svar1a" selected="true" cacheAsBitmap="true" centerPoint3DX="225.25" centerPoint3DY="276">
                   <matrix>
                     <Matrix a="1.95245361328125" d="1.95245361328125" tx="225.2" ty="275.9"/>
                   </matrix>
@@ -98,11 +101,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar2a" color="#FF4F4F" autoNamed="false">
+        <DOMLayer name="Svar2a" color="#FF4F4F" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Crystals/JarsVariablesCombined/CJarSalt" name="Svar2a">
+                <DOMSymbolInstance libraryItemName="Assets/Crystals/JarsVariablesCombined/TC_TObject__CJarSalt" name="Svar2a" cacheAsBitmap="true">
                   <matrix>
                     <Matrix a="1.95262145996094" d="1.952392578125" tx="225.15" ty="275.9"/>
                   </matrix>
@@ -114,11 +117,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar2b" color="#00FFFF" autoNamed="false">
+        <DOMLayer name="Svar2b" color="#00FFFF" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Crystals/JarsVariablesCombined/CJarBrownSugar" name="Svar2b">
+                <DOMSymbolInstance libraryItemName="Assets/Crystals/JarsVariablesCombined/TC_TObject__CJarBrownSugar" name="Svar2b" cacheAsBitmap="true">
                   <matrix>
                     <Matrix a="1.95260620117188" d="1.952392578125" tx="225.15" ty="275.9"/>
                   </matrix>
@@ -130,11 +133,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Stable" color="#9933CC" autoNamed="false">
+        <DOMLayer name="Stable" color="#9933CC" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CBackgroundassets/tableShort" name="Stable">
+                <DOMSymbolInstance libraryItemName="Assets/CBackgroundassets/TC_TObject__tableShort" name="Stable" cacheAsBitmap="true">
                   <matrix>
                     <Matrix ty="422.1"/>
                   </matrix>

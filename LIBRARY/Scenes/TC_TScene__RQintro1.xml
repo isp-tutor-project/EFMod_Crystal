@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro1" itemID="5b956e88-00000b01" lastModified="1536519816">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro1" itemID="5b956e88-00000b01" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro1" lastModified="1537036486">
   <timeline>
     <DOMTimeline name="TC_TScene__RQintro1">
       <layers>
@@ -38,7 +38,7 @@
                     <Point y="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Crystals/JarsVariablesCombined/CJarSalt">
+                <DOMSymbolInstance libraryItemName="Assets/Crystals/JarsVariablesCombined/TC_TObject__CJarSalt">
                   <matrix>
                     <Matrix a="2" d="2" tx="-37.75" ty="84.5"/>
                   </matrix>
