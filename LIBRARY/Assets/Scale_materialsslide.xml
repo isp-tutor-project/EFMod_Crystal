@@ -20,7 +20,7 @@
                     <Edge cubics="!-3230 -1142(;-3230,-1142 3230,-1142 3230,-1142q-3230 -1142 3230 -1142);"/>
                   </edges>
                 </DOMShape>
-                <DOMSymbolInstance libraryItemName="Assets/CScale" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__CScale" selected="true">
                   <matrix>
                     <Matrix a="1.0875244140625" d="1.21537780761719" tx="4.65" ty="-7.1"/>
                   </matrix>

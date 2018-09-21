@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/scalenumber" itemID="5af59919-00000307" lastModified="1528806946">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/TC_TObject__scalenumber" itemID="5ba57001-0000117e" lastModified="1537568769">
   <timeline>
-    <DOMTimeline name="scalenumber">
+    <DOMTimeline name="TC_TObject__scalenumber">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>

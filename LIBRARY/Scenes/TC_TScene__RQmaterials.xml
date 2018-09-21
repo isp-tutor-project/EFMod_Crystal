@@ -1,15 +1,15 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQmaterials" itemID="5b956e48-00000afd" linkageExportForAS="true" linkageClassName="TC_TScene__RQmaterials" lastModified="1537047573">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQmaterials" itemID="5b956e48-00000afd" linkageExportForAS="true" linkageClassName="TC_TScene__RQmaterials" lastModified="1537567665">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
   <timeline>
     <DOMTimeline name="TC_TScene__RQmaterials">
       <layers>
-        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+        <DOMLayer name="Layer_1" color="#00FFFF">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/calendarnew">
+                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/TC_TObject__calendarnew">
                   <matrix>
                     <Matrix a="1.69387817382813" d="1.69387817382813" tx="898.55" ty="459.2"/>
                   </matrix>
@@ -17,7 +17,7 @@
                     <Point x="0.05" y="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/pencil">
+                <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/TC_TObject__pencil">
                   <matrix>
                     <Matrix a="0.846954345703125" b="1.46688842773438" c="-1.46688842773438" d="0.846954345703125" tx="1298.65" ty="462.3"/>
                   </matrix>
@@ -258,11 +258,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer_2" color="#9933CC" locked="true">
+        <DOMLayer name="Layer_2" color="#9933CC" locked="true" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn">
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" selected="true">
                   <transformationPoint>
                     <Point x="960" y="600"/>
                   </transformationPoint>

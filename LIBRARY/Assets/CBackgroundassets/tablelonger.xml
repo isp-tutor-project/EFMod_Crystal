@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CBackgroundassets/table" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/CBackgroundassets/TC_TObject__table" selected="true">
                   <matrix>
                     <Matrix a="1.7601318359375"/>
                   </matrix>

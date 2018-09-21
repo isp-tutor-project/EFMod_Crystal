@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 126" majorVersion="18" buildNumber="126" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="5D93ECF0830301B580BE3EB7359F2E2A">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="5D93ECF0830301B580BE3EB7359F2E2A">
      <folders>
           <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
           <DOMFolderItem name="_HTMLControls" itemID="5b6f4063-000003e9"/>
@@ -25,7 +25,7 @@
           <DOMFolderItem name="Components" itemID="5b92f7fd-000020f0"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
-          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0"/>
+          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
      </folders>
      <media>
           <DOMBitmapItem name="____componentassets____/TutorModule" itemID="5ad39ecb-000002ce" sourceLastImported="1512163249" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/TutorModule.png" bitmapDataHRef="M 3 1523818176.dat" frameLeft="140" frameTop="1720" frameRight="780" frameBottom="2360"/>
@@ -68,10 +68,10 @@
           <Include href="Assets/animationobjects/scalebutton.xml" loadImmediate="false" itemID="5af9c5e6-0000043c" lastModified="1513288839"/>
           <Include href="Assets/animationobjects/Spoon2.xml" loadImmediate="false" itemID="5a69ea0f-00000238" lastModified="1516890640"/>
           <Include href="Assets/animationobjects/yarnnojar.xml" loadImmediate="false" itemID="5af9c5e6-00000437" lastModified="1510845418"/>
-          <Include href="Assets/Calendar Assets/calendarnew.xml" loadImmediate="false" itemID="5abd43bf-00000e66" lastModified="1528128791"/>
-          <Include href="Assets/Calendar Assets/x.xml" loadImmediate="false" itemID="5a9d67b5-00000077" lastModified="1520265141"/>
-          <Include href="Assets/CBackgroundassets/table.xml" loadImmediate="false" itemID="5abd43bf-00000e67" lastModified="1525979468"/>
+          <Include href="Assets/Calendar Assets/TC_TObject__calendarnew.xml" loadImmediate="false" itemID="5ba56ab3-00000fc6" lastModified="1537567411"/>
+          <Include href="Assets/Calendar Assets/TC_TObject__x.xml" loadImmediate="false" itemID="5ba57027-0000117f" lastModified="1537568807"/>
           <Include href="Assets/CBackgroundassets/tablelonger.xml" loadImmediate="false" itemID="5abd4455-00000e82" lastModified="1522353237"/>
+          <Include href="Assets/CBackgroundassets/TC_TObject__table.xml" loadImmediate="false" itemID="5ba56aeb-00000fca" lastModified="1537567467"/>
           <Include href="Assets/CBackgroundassets/TC_TObject__tableShort.xml" loadImmediate="false" itemID="5b9ee40e-00001655" lastModified="1537139726"/>
           <Include href="Assets/CDOJarAssets/distilledwater.xml" loadImmediate="false" itemID="5a25a4ca-0000003e" lastModified="1512416458"/>
           <Include href="Assets/CDOJarAssets/jarhighlights.xml" loadImmediate="false" itemID="5a09caac-0000003d" lastModified="1510591148"/>
@@ -80,31 +80,31 @@
           <Include href="Assets/Crystals/CCrystal Assets/brownsugar.xml" loadImmediate="false" itemID="59f72bc1-0000006e" lastModified="1509370817"/>
           <Include href="Assets/Crystals/CCrystal Assets/fullgrowncrystal.xml" loadImmediate="false" itemID="5a09ca3c-0000002e" lastModified="1510591259"/>
           <Include href="Assets/Crystals/CCrystal Assets/LargerCrystal.xml" loadImmediate="false" itemID="5a7ca5a1-000002a6" lastModified="1518118305"/>
-          <Include href="Assets/Crystals/CCrystal Assets/LargerCrystalRevised.xml" loadImmediate="false" itemID="5a7ca5ff-000002db" lastModified="1518118400"/>
           <Include href="Assets/Crystals/CCrystal Assets/lightersalt.xml" loadImmediate="false" itemID="5a7c6f93-00000246" lastModified="1518104467"/>
           <Include href="Assets/Crystals/CCrystal Assets/salt.xml" loadImmediate="false" itemID="59f72bcb-00000072" lastModified="1518104265"/>
-          <Include href="Assets/Crystals/CCrystal Assets/Saltfalling.xml" loadImmediate="false" itemID="5a83389e-00000294" lastModified="1518549150"/>
-          <Include href="Assets/Crystals/CCrystal Assets/Saltfallinginjar.xml" loadImmediate="false" itemID="5a8334c3-0000023a" lastModified="1518548163"/>
           <Include href="Assets/Crystals/CCrystal Assets/seedcrystalsonstring.xml" loadImmediate="false" itemID="59f72b6b-00000062" lastModified="1509370731"/>
+          <Include href="Assets/Crystals/CCrystal Assets/TC_TObject__LargerCrystalRevised.xml" loadImmediate="false" itemID="5ba56ff4-0000117c" lastModified="1537568756"/>
+          <Include href="Assets/Crystals/CCrystal Assets/TC_TObject__Saltfalling.xml" loadImmediate="false" itemID="5ba56d0b-00001006" lastModified="1537568011"/>
+          <Include href="Assets/Crystals/CCrystal Assets/TC_TObject__Saltfallinginjar.xml" loadImmediate="false" itemID="5ba56d05-00001005" lastModified="1537568005"/>
           <Include href="Assets/Crystals/JarsVariablesCombined/TC_TObject__CJarBrownSugar.xml" loadImmediate="false" itemID="5b9ee406-00001654" lastModified="1537139718"/>
           <Include href="Assets/Crystals/JarsVariablesCombined/TC_TObject__CjarHotWater.xml" loadImmediate="false" itemID="5b9ee3f0-00001651" lastModified="1537139696"/>
           <Include href="Assets/Crystals/JarsVariablesCombined/TC_TObject__CJarSalt.xml" loadImmediate="false" itemID="5b9ee3ff-00001653" lastModified="1537139711"/>
           <Include href="Assets/Crystals/TC_TObject__CDO_Jar.xml" loadImmediate="false" itemID="5b9ee3f8-00001652" lastModified="1537139704"/>
-          <Include href="Assets/CScale.xml" loadImmediate="false" itemID="5abd43bf-00000e68" lastModified="1513285361"/>
-          <Include href="Assets/CSpoon.xml" loadImmediate="false" itemID="5abd4d2f-0000035f" lastModified="1522355503"/>
           <Include href="Assets/distilledwater_materials.xml" loadImmediate="false" itemID="5af4abe0-00000384" lastModified="1525984224"/>
-          <Include href="Assets/HandDroppingorholding.xml" loadImmediate="false" itemID="5abd4916-000002e6" lastModified="1522354454"/>
-          <Include href="Assets/PencilStringAssets/pencil.xml" loadImmediate="false" itemID="59f72b91-0000006a" lastModified="1509370769"/>
           <Include href="Assets/PencilStringAssets/String_Outline.xml" loadImmediate="false" itemID="5abd4a75-00000317" lastModified="1522354805"/>
           <Include href="Assets/PencilStringAssets/stringnojar.xml" loadImmediate="false" itemID="5a09ca01-00000027" lastModified="1510590977"/>
           <Include href="Assets/PencilStringAssets/TC_TObject__CPencil_string.xml" loadImmediate="false" itemID="5b9ee3ea-00001650" lastModified="1537139690"/>
           <Include href="Assets/PencilStringAssets/TC_TObject__CPencil_Yarn.xml" loadImmediate="false" itemID="5b9ee3e4-0000164f" lastModified="1537139684"/>
+          <Include href="Assets/PencilStringAssets/TC_TObject__pencil.xml" loadImmediate="false" itemID="5ba56fea-0000117b" lastModified="1537568746"/>
           <Include href="Assets/PencilStringAssets/TC_TObject__SeededStringPencil.xml" loadImmediate="false" itemID="5b9ee3dc-0000164e" lastModified="1537139676"/>
           <Include href="Assets/PencilStringAssets/TC_TObject__UnseededStringPencil.xml" loadImmediate="false" itemID="5b9ee3d3-0000164d" lastModified="1537139667"/>
-          <Include href="Assets/PencilStringAssets/yarnnojar.xml" loadImmediate="false" itemID="5a0dabea-00000024" lastModified="1510845418"/>
+          <Include href="Assets/PencilStringAssets/TC_TObject__yarnnojar.xml" loadImmediate="false" itemID="5ba56ffb-0000117d" lastModified="1537568763"/>
           <Include href="Assets/Scale_materialsslide.xml" loadImmediate="false" itemID="5af4acda-000003a8" lastModified="1525984474"/>
-          <Include href="Assets/scalenumber.xml" loadImmediate="false" itemID="5af59919-00000307" lastModified="1528806946"/>
           <Include href="Assets/TC_TObject__arrow.xml" loadImmediate="false" itemID="5b9d7bf8-0000248e" lastModified="1537047544"/>
+          <Include href="Assets/TC_TObject__CScale.xml" loadImmediate="false" itemID="5ba56ae1-00000fc9" lastModified="1537567457"/>
+          <Include href="Assets/TC_TObject__CSpoon.xml" loadImmediate="false" itemID="5ba56ac9-00000fc7" lastModified="1537567433"/>
+          <Include href="Assets/TC_TObject__HandDroppingorholding.xml" loadImmediate="false" itemID="5ba56ad5-00000fc8" lastModified="1537567445"/>
+          <Include href="Assets/TC_TObject__scalenumber.xml" loadImmediate="false" itemID="5ba57001-0000117e" lastModified="1537568769"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b956ec5-00000b08" lastModified="1537036472"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b956ecf-00000b0a" lastModified="1537036481"/>
           <Include href="Components/TC_TObject__Vars.xml" itemID="5b956eca-00000b09" lastModified="1537140659"/>
@@ -122,14 +122,14 @@
           <Include href="Exports/TL_Crystal__Topic.xml" loadImmediate="false" itemID="5b956ee2-00000b0c" lastModified="1536519906"/>
           <Include href="Exports/TL_Crystal__Vars.xml" loadImmediate="false" itemID="5b956ee7-00000b0d" lastModified="1536519911"/>
           <Include href="Scenes/TC_TScene__RQenumVars.xml" itemID="5b9e964f-000008bc" lastModified="1537139634"/>
-          <Include href="Scenes/TC_TScene__RQintro1.xml" loadImmediate="false" itemID="5ba3b876-0000038d" lastModified="1537456246"/>
-          <Include href="Scenes/TC_TScene__RQintro2.xml" loadImmediate="false" itemID="5ba3b99d-00000406" lastModified="1537456541"/>
-          <Include href="Scenes/TC_TScene__RQintro3.xml" loadImmediate="false" itemID="5ba3b9a0-00000407" lastModified="1537456544"/>
-          <Include href="Scenes/TC_TScene__RQintro4.xml" loadImmediate="false" itemID="5ba3b9ae-00000409" lastModified="1537456558"/>
-          <Include href="Scenes/TC_TScene__RQintro5.xml" loadImmediate="false" itemID="5ba3b9bc-0000040b" lastModified="1537456572"/>
-          <Include href="Scenes/TC_TScene__RQintro6.xml" loadImmediate="false" itemID="5ba3b9c2-0000040c" lastModified="1537456578"/>
-          <Include href="Scenes/TC_TScene__RQintro7.xml" loadImmediate="false" itemID="5ba3b9d5-0000040f" lastModified="1537456597"/>
-          <Include href="Scenes/TC_TScene__RQmaterials.xml" itemID="5b956e48-00000afd" lastModified="1537047573"/>
+          <Include href="Scenes/TC_TScene__RQintro1.xml" itemID="5ba3b876-0000038d" lastModified="1537569165"/>
+          <Include href="Scenes/TC_TScene__RQintro2.xml" itemID="5ba3b99d-00000406" lastModified="1537569127"/>
+          <Include href="Scenes/TC_TScene__RQintro3.xml" itemID="5ba5715a-0000119f" lastModified="1537569130"/>
+          <Include href="Scenes/TC_TScene__RQintro4.xml" itemID="5ba5715c-000011a0" lastModified="1537569132"/>
+          <Include href="Scenes/TC_TScene__RQintro5.xml" itemID="5ba5715d-000011a1" lastModified="1537569135"/>
+          <Include href="Scenes/TC_TScene__RQintro6.xml" itemID="5ba5715f-000011a2" lastModified="1537569137"/>
+          <Include href="Scenes/TC_TScene__RQintro7.xml" itemID="5ba57161-000011a3" lastModified="1537569149"/>
+          <Include href="Scenes/TC_TScene__RQmaterials.xml" itemID="5b956e48-00000afd" lastModified="1537567665"/>
           <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b95850e-00000db0" lastModified="1537124853"/>
           <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b956e79-00000b00" lastModified="1536519801"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
@@ -168,49 +168,19 @@
                                    </elements>
                               </DOMFrame>
                               <DOMFrame index="2" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro3">
-                                             <transformationPoint>
-                                                  <Point x="960" y="600"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
+                                   <elements/>
                               </DOMFrame>
                               <DOMFrame index="3" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro4">
-                                             <transformationPoint>
-                                                  <Point x="960" y="600"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
+                                   <elements/>
                               </DOMFrame>
                               <DOMFrame index="4" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro5">
-                                             <transformationPoint>
-                                                  <Point x="960" y="600"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
+                                   <elements/>
                               </DOMFrame>
                               <DOMFrame index="5" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro6">
-                                             <transformationPoint>
-                                                  <Point x="960" y="600"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
+                                   <elements/>
                               </DOMFrame>
                               <DOMFrame index="6" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro7">
-                                             <transformationPoint>
-                                                  <Point x="960" y="600"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
+                                   <elements/>
                               </DOMFrame>
                               <DOMFrame index="7" keyMode="9728">
                                    <elements/>

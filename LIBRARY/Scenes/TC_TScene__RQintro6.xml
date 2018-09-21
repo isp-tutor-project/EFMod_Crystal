@@ -1,43 +1,94 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro6" itemID="5ba3b9c2-0000040c" lastModified="1537456578">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro6" itemID="5ba5715f-000011a2" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro6" lastModified="1537569137">
   <timeline>
     <DOMTimeline name="TC_TScene__RQintro6">
       <layers>
-        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+        <DOMLayer name="Layer_3" color="#FF800A">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/SceneRegion" selected="true" centerPoint3DX="960" centerPoint3DY="600">
-                  <transformationPoint>
-                    <Point x="960" y="600"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CBackgroundassets/table" selected="true" centerPoint3DX="962.5" centerPoint3DY="881.85">
+                <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/TC_TObject__CPencil_Yarn" name="Sstring1" centerPoint3DX="1000.25" centerPoint3DY="614.05">
                   <matrix>
-                    <Matrix a="2.48471069335938" d="2.2723388671875" tx="962.5" ty="882.25"/>
+                    <Matrix d="1.568115234375" tx="1000.25" ty="614"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="0.05" y="0.45"/>
+                    <Point x="-0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/calendarnew" selected="true" centerPoint3DX="1386.1" centerPoint3DY="332.1">
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Crystals/TC_TObject__CDO_Jar" name="Sjar2" centerPoint3DX="966.05" centerPoint3DY="647.8">
                   <matrix>
-                    <Matrix a="2" d="2" tx="1386.1" ty="332.1"/>
+                    <Matrix a="2" d="2" tx="966.05" ty="647.75"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CScale" selected="true" centerPoint3DX="599.7" centerPoint3DY="820.45">
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" centerPoint3DX="960" centerPoint3DY="600">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CBackgroundassets/TC_TObject__table" name="Stable" centerPoint3DX="960.25" centerPoint3DY="912.25">
                   <matrix>
-                    <Matrix a="1.469970703125" d="1.469970703125" tx="599.7" ty="820.45"/>
+                    <Matrix a="2.48471069335938" d="2.2723388671875" tx="960.25" ty="912.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Crystals/JarsVariablesCombined/TC_TObject__CJarSalt" name="Sjar" centerPoint3DX="966.05" centerPoint3DY="647.8">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="966.05" ty="647.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.03125"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/TC_TObject__calendarnew" name="Scalendar" centerPoint3DX="1379.85" centerPoint3DY="358.5">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="1379.85" ty="358.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__CScale" name="Sscale" centerPoint3DX="601.45" centerPoint3DY="850.85">
+                  <matrix>
+                    <Matrix a="1.469970703125" d="1.469970703125" tx="601.45" ty="850.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.5" y="1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMDynamicText name="S_thenwewillputstringinwater_2" selected="true" fontRenderingMode="standard" left="-112.65" width="1736.45" height="58.2" isSelectable="false" lineType="multiline">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__HandDroppingorholding" name="Shand3" centerPoint3DX="753.35" centerPoint3DY="312.95">
                   <matrix>
-                    <Matrix tx="234.45" ty="76.5"/>
+                    <Matrix a="0.84381103515625" b="-1.46153259277344" c="1.46153259277344" d="0.84381103515625" tx="753.3" ty="312.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="S_thenwewillputstringinwater_1" selected="true" fontRenderingMode="standard" left="-154.65" width="1832.45" height="58.2" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="228.65" ty="85.75"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -48,54 +99,6 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Assets/CDOJarAssets/jarnew" selected="true" centerPoint3DX="968.3" centerPoint3DY="617.35">
-                  <matrix>
-                    <Matrix a="2" d="2" tx="968.3" ty="617.35"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/HandDroppingorholding" selected="true" centerPoint3DX="773.15" centerPoint3DY="295.7">
-                  <matrix>
-                    <Matrix a="0.84381103515625" b="-1.46153259277344" c="1.46153259277344" d="0.84381103515625" tx="773.1" ty="295.7"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.1"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/pencil" selected="true" centerPoint3DX="1002.05" centerPoint3DY="429.75">
-                  <matrix>
-                    <Matrix a="1.78961181640625" d="1.98495483398438" tx="1002" ty="429.8"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.15" y="0.2"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CDOJarAssets/yarnwithjar" selected="true" centerPoint3DX="994.3" centerPoint3DY="593.75">
-                  <matrix>
-                    <Matrix a="2.09051513671875" d="2.1260986328125" tx="994.25" ty="593.75"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.15" y="0.1"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CDOJarAssets/distilledwater" selected="true" centerPoint3DX="991.3" centerPoint3DY="654.05">
-                  <matrix>
-                    <Matrix a="2" d="2" tx="991.3" ty="654.05"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CDOJarAssets/jarhighlights" selected="true" centerPoint3DX="992.5" centerPoint3DY="647.85">
-                  <matrix>
-                    <Matrix a="2" d="2" tx="992.5" ty="647.85"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point y="-0.05"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>

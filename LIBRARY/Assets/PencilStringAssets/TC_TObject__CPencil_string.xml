@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/pencil" selected="true" centerPoint3DY="-98.85">
+                <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/TC_TObject__pencil" selected="true" centerPoint3DY="-98.85">
                   <matrix>
                     <Matrix a="1.78961181640625" d="1.32086181640625" tx="-0.05" ty="-98.85"/>
                   </matrix>
