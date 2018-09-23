@@ -1,0 +1,136 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Expt" itemID="5ba815fb-000021be" linkageExportForAS="true" linkageClassName="TC_TObject__Expt" lastModified="1537744312" lastUniqueIdentifier="8">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="TC_TObject__Expt">
+      <layers>
+        <DOMLayer name="Svar3a   Seed Crystals" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt3a" name="Svar3a">
+                  <matrix>
+                    <Matrix tx="308.9" ty="162.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="124.9" y="39.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar3b" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt3b" name="Svar3b">
+                  <matrix>
+                    <Matrix tx="308.9" ty="162.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="139.15" y="39.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar4a   String" color="#009999" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt4a" name="Svar4a" selected="true">
+                  <matrix>
+                    <Matrix tx="80.3" ty="87.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="203.6" y="130.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar4b" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt4b" name="Svar4b">
+                  <matrix>
+                    <Matrix tx="80.3" ty="87.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="204.6" y="128.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar1a   Water" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt1a" name="Svar1a">
+                  <matrix>
+                    <Matrix tx="1.05" ty="83.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="222.25" y="192.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar1b" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt1b" name="Svar1b">
+                  <transformationPoint>
+                    <Point x="222.8" y="234.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar2a   Crystal Solution" color="#00FFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt2a" name="Svar2a">
+                  <matrix>
+                    <Matrix tx="235.8" ty="213.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="171.5" y="60.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar2b" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt2b" name="Svar2b">
+                  <matrix>
+                    <Matrix tx="235.8" ty="213.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="171.5" y="60.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

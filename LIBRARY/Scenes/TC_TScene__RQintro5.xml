@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro5" itemID="5ba5715d-000011a1" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro5" lastModified="1537569135">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro5" itemID="5ba5715d-000011a1" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro5" lastModified="1537647431">
   <timeline>
     <DOMTimeline name="TC_TScene__RQintro5">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Crystals/TC_TObject__CDO_Jar" name="Sjar2" selected="true" centerPoint3DX="966.05" centerPoint3DY="647.8">
+                <DOMSymbolInstance libraryItemName="Assets/Crystals/TC_TObject__CDO_Jar" name="Sjar2" centerPoint3DX="966.05" centerPoint3DY="647.8">
                   <matrix>
                     <Matrix a="2" d="2" tx="966.05" ty="647.75"/>
                   </matrix>

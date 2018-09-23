@@ -1,4 +1,7 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro1" itemID="5ba3b876-0000038d" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro1" lastModified="1537569165">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro1" itemID="5ba3b876-0000038d" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro1" lastModified="1537570130">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
   <timeline>
     <DOMTimeline name="TC_TScene__RQintro1">
       <layers>
@@ -24,7 +27,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Assets/CBackgroundassets/TC_TObject__table" selected="true" centerPoint3DX="960.25" centerPoint3DY="912.25">
+                <DOMSymbolInstance libraryItemName="Assets/CBackgroundassets/TC_TObject__table" centerPoint3DX="960.25" centerPoint3DY="912.25">
                   <matrix>
                     <Matrix a="2.48471069335938" d="2.2723388671875" tx="960.25" ty="912.65"/>
                   </matrix>
@@ -32,7 +35,7 @@
                     <Point x="0.05" y="0.45"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/TC_TObject__calendarnew" selected="true" centerPoint3DX="1379.85" centerPoint3DY="358.5">
+                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/TC_TObject__calendarnew" centerPoint3DX="1379.85" centerPoint3DY="358.5">
                   <matrix>
                     <Matrix a="2" d="2" tx="1379.85" ty="358.5"/>
                   </matrix>
@@ -40,7 +43,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__CScale" selected="true" centerPoint3DX="601.45" centerPoint3DY="850.85">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__CScale" centerPoint3DX="601.45" centerPoint3DY="850.85">
                   <matrix>
                     <Matrix a="1.469970703125" d="1.469970703125" tx="601.45" ty="850.85"/>
                   </matrix>
@@ -48,7 +51,7 @@
                     <Point x="-0.5" y="1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__CSpoon" selected="true" centerPoint3DX="1029.2" centerPoint3DY="481.9">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__CSpoon" centerPoint3DX="1029.2" centerPoint3DY="481.9">
                   <matrix>
                     <Matrix a="2.27972412109375" d="2" tx="1029.15" ty="481.9"/>
                   </matrix>
@@ -56,7 +59,7 @@
                     <Point y="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Crystals/JarsVariablesCombined/TC_TObject__CJarSalt" selected="true" centerPoint3DX="966.05" centerPoint3DY="647.8">
+                <DOMSymbolInstance libraryItemName="Assets/Crystals/JarsVariablesCombined/TC_TObject__CJarSalt" centerPoint3DX="966.05" centerPoint3DY="647.8">
                   <matrix>
                     <Matrix a="2" d="2" tx="966.05" ty="647.75"/>
                   </matrix>
@@ -64,7 +67,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__HandDroppingorholding" selected="true" centerPoint3DX="1012.25" centerPoint3DY="334.3">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__HandDroppingorholding" centerPoint3DX="1012.25" centerPoint3DY="334.3">
                   <matrix>
                     <Matrix a="1.68766784667969" d="1.68766784667969" tx="1012.2" ty="334.3"/>
                   </matrix>

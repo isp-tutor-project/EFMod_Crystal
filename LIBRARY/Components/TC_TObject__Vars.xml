@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b956eca-00000b09" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1537140659">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b956eca-00000b09" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1537742389">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
@@ -69,23 +69,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar1a" color="#FF0000" current="true" isSelected="true" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Crystals/JarsVariablesCombined/TC_TObject__CjarHotWater" name="Svar1b" cacheAsBitmap="true" centerPoint3DX="225.25" centerPoint3DY="234.35">
-                  <matrix>
-                    <Matrix a="1.5" d="1.5" tx="225.2" ty="234.3"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.05" y="0.05"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="Svar1b" color="#669900" autoNamed="false" visible="false">
+        <DOMLayer name="Svar1a" color="#669900" current="true" isSelected="true" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -95,6 +79,22 @@
                   </matrix>
                   <transformationPoint>
                     <Point x="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar1b" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Crystals/JarsVariablesCombined/TC_TObject__CjarHotWater" name="Svar1b" cacheAsBitmap="true" centerPoint3DX="225.25" centerPoint3DY="234.35">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="225.2" ty="234.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>

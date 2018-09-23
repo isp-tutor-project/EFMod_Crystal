@@ -6,12 +6,12 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/TC_TObject__UnseededStringPencil" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/PencilStringAssets/TC_TObject__UnseededStringPencil">
                   <transformationPoint>
                     <Point x="-0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Crystals/CCrystal Assets/seedcrystalsonstring" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/Crystals/CCrystal Assets/TC_TObject__seedcrystalsonstring">
                   <matrix>
                     <Matrix a="0.99664306640625" b="0.081695556640625" c="-0.081695556640625" d="0.99664306640625" tx="-7.95" ty="-28.05"/>
                   </matrix>

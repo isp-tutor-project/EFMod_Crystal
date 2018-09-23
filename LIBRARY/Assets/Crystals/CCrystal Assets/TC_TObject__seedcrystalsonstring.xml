@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/Crystals/CCrystal Assets/seedcrystalsonstring" itemID="59f72b6b-00000062" lastModified="1509370731">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/Crystals/CCrystal Assets/TC_TObject__seedcrystalsonstring" itemID="5ba8177b-00002258" lastModified="1537742715">
   <timeline>
-    <DOMTimeline name="seedcrystalsonstring">
+    <DOMTimeline name="TC_TObject__seedcrystalsonstring">
       <layers>
         <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
           <frames>

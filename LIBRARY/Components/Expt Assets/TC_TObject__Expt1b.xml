@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt1b" itemID="5ba81cbc-00002361" lastModified="1537744060">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Expt1b">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Crystals/JarsVariablesCombined/TC_TObject__CjarHotWater" name="Svar1b" selected="true" cacheAsBitmap="true" centerPoint3DX="290.55" centerPoint3DY="234.35">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="290.5" ty="234.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Callout" selected="true">
+                  <matrix>
+                    <Matrix tx="141.9" ty="364.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.65" y="15.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText selected="true" fontRenderingMode="standard" left="104.2" width="129.25" height="19.4" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-102.2" ty="372.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Water:  Hot</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" autoKern="false" lineHeight="19.4" size="15" bitmapSize="300" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
