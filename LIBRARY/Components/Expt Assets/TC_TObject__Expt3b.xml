@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt3b" itemID="5ba81bd2-00002336" lastModified="1537743826">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt3b" itemID="5ba81bd2-00002336" lastModified="1537809445">
   <timeline>
     <DOMTimeline name="TC_TObject__Expt3b">
       <layers>
@@ -6,6 +6,14 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight">
+                  <matrix>
+                    <Matrix a="1.10075378417969" tx="138.45" ty="40.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="63.5" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/Crystals/CCrystal Assets/TC_TObject__seedcrystalsonstring" name="Svar3a">
                   <matrix>
                     <Matrix a="0.99664306640625" b="0.081695556640625" c="-0.081695556640625" d="0.99664306640625" tx="4.25" ty="23.9"/>

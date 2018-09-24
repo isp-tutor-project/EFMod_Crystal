@@ -23,7 +23,7 @@
           <DOMFolderItem name="Assets/Crystals/JarsVariablesCombined" itemID="5abd48a9-000002d9" isExpanded="true"/>
           <DOMFolderItem name="Assets/PencilStringAssets" itemID="5abd4869-000002d4"/>
           <DOMFolderItem name="Components" itemID="5b92f7fd-000020f0" isExpanded="true"/>
-          <DOMFolderItem name="Components/Expt Assets" itemID="5ba81ded-00002385"/>
+          <DOMFolderItem name="Components/Expt Assets" itemID="5ba81ded-00002385" isExpanded="true"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
           <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
@@ -109,15 +109,16 @@
           <Include href="Assets/TC_TObject__Steam.xml" loadImmediate="false" itemID="5ba81691-000021c0" lastModified="1537742481"/>
           <Include href="Components/Expt Assets/TC_TObject__Callout.xml" loadImmediate="false" itemID="5ba81883-00002275" lastModified="1537742979"/>
           <Include href="Components/Expt Assets/TC_TObject__CalloutLong.xml" loadImmediate="false" itemID="5ba81901-0000227e" lastModified="1537743138"/>
-          <Include href="Components/Expt Assets/TC_TObject__Expt1a.xml" loadImmediate="false" itemID="5ba81ca8-00002355" lastModified="1537744040"/>
-          <Include href="Components/Expt Assets/TC_TObject__Expt1b.xml" loadImmediate="false" itemID="5ba81cbc-00002361" lastModified="1537744060"/>
-          <Include href="Components/Expt Assets/TC_TObject__Expt2a.xml" loadImmediate="false" itemID="5ba81cd0-00002370" lastModified="1537744080"/>
-          <Include href="Components/Expt Assets/TC_TObject__Expt2b.xml" loadImmediate="false" itemID="5ba81ce0-00002379" lastModified="1537744096"/>
-          <Include href="Components/Expt Assets/TC_TObject__Expt3a.xml" loadImmediate="false" itemID="5ba81c8d-00002353" lastModified="1537744013"/>
-          <Include href="Components/Expt Assets/TC_TObject__Expt3b.xml" loadImmediate="false" itemID="5ba81bd2-00002336" lastModified="1537743826"/>
-          <Include href="Components/Expt Assets/TC_TObject__Expt4a.xml" loadImmediate="false" itemID="5ba81c87-00002352" lastModified="1537744007"/>
-          <Include href="Components/Expt Assets/TC_TObject__Expt4b.xml" loadImmediate="false" itemID="5ba81c53-0000233f" lastModified="1537743955"/>
-          <Include href="Components/TC_TObject__Expt.xml" itemID="5ba815fb-000021be" lastModified="1537807306"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt1a.xml" loadImmediate="false" itemID="5ba81ca8-00002355" lastModified="1537809482"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt1b.xml" loadImmediate="false" itemID="5ba81cbc-00002361" lastModified="1537809516"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt2a.xml" loadImmediate="false" itemID="5ba81cd0-00002370" lastModified="1537809549"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt2b.xml" loadImmediate="false" itemID="5ba81ce0-00002379" lastModified="1537809585"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt3a.xml" loadImmediate="false" itemID="5ba81c8d-00002353" lastModified="1537809409"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt3b.xml" loadImmediate="false" itemID="5ba81bd2-00002336" lastModified="1537809445"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt4a.xml" loadImmediate="false" itemID="5ba81c87-00002352" lastModified="1537809336"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt4b.xml" loadImmediate="false" itemID="5ba81c53-0000233f" lastModified="1537809374"/>
+          <Include href="Components/Expt Assets/TC_TObject__Highlight.xml" loadImmediate="false" itemID="5ba91b96-00000878" lastModified="1537809302"/>
+          <Include href="Components/TC_TObject__Expt.xml" itemID="5ba815fb-000021be" lastModified="1537809592"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b956ec5-00000b08" lastModified="1537036472"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b956ecf-00000b0a" lastModified="1537036481"/>
           <Include href="Components/TC_TObject__Vars.xml" itemID="5b956eca-00000b09" lastModified="1537742389"/>
