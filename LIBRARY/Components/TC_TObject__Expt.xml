@@ -1,20 +1,20 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Expt" itemID="5ba815fb-000021be" linkageExportForAS="true" linkageClassName="TC_TObject__Expt" lastModified="1537744312" lastUniqueIdentifier="8">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Expt" itemID="5ba815fb-000021be" linkageExportForAS="true" linkageClassName="TC_TObject__Expt" lastModified="1537807306" lastUniqueIdentifier="8">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
   <timeline>
     <DOMTimeline name="TC_TObject__Expt">
       <layers>
-        <DOMLayer name="Svar3a   Seed Crystals" color="#FF800A" autoNamed="false">
+        <DOMLayer name="Svar3a   Seed Crystals" color="#FF800A" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt3a" name="Svar3a">
                   <matrix>
-                    <Matrix tx="308.9" ty="162.2"/>
+                    <Matrix a="1.38682556152344" d="1.38681030273438" tx="428.35" ty="224.9"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="124.9" y="39.35"/>
+                    <Point x="124.95" y="39.35"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -27,23 +27,23 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt3b" name="Svar3b">
                   <matrix>
-                    <Matrix tx="308.9" ty="162.2"/>
+                    <Matrix a="1.38682556152344" d="1.38681030273438" tx="428.35" ty="224.9"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="139.15" y="39.35"/>
+                    <Point x="139.2" y="39.35"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar4a   String" color="#009999" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Svar4a   String" color="#009999" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt4a" name="Svar4a" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt4a" name="Svar4a">
                   <matrix>
-                    <Matrix tx="80.3" ty="87.55"/>
+                    <Matrix a="1.38682556152344" d="1.38681030273438" tx="111.35" ty="121.4"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="203.6" y="130.8"/>
@@ -59,7 +59,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt4b" name="Svar4b">
                   <matrix>
-                    <Matrix tx="80.3" ty="87.55"/>
+                    <Matrix a="1.38682556152344" d="1.38681030273438" tx="111.35" ty="121.4"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="204.6" y="128.85"/>
@@ -75,10 +75,10 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt1a" name="Svar1a">
                   <matrix>
-                    <Matrix tx="1.05" ty="83.2"/>
+                    <Matrix a="1.38682556152344" d="1.38681030273438" tx="1.45" ty="115.35"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="222.25" y="192.75"/>
+                    <Point x="222.25" y="192.8"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -90,8 +90,11 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt1b" name="Svar1b">
+                  <matrix>
+                    <Matrix a="1.38682556152344" d="1.38681030273438"/>
+                  </matrix>
                   <transformationPoint>
-                    <Point x="222.8" y="234.35"/>
+                    <Point x="222.75" y="234.35"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -104,10 +107,10 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt2a" name="Svar2a">
                   <matrix>
-                    <Matrix tx="235.8" ty="213.05"/>
+                    <Matrix a="1.38682556152344" d="1.38681030273438" tx="326.95" ty="295.45"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="171.5" y="60.7"/>
+                    <Point x="171.55" y="60.7"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -120,10 +123,10 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt2b" name="Svar2b">
                   <matrix>
-                    <Matrix tx="235.8" ty="213.05"/>
+                    <Matrix a="1.38682556152344" d="1.38681030273438" tx="326.95" ty="295.45"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="171.5" y="60.7"/>
+                    <Point x="171.55" y="60.7"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>

@@ -23,7 +23,7 @@
           <DOMFolderItem name="Assets/Crystals/JarsVariablesCombined" itemID="5abd48a9-000002d9" isExpanded="true"/>
           <DOMFolderItem name="Assets/PencilStringAssets" itemID="5abd4869-000002d4"/>
           <DOMFolderItem name="Components" itemID="5b92f7fd-000020f0" isExpanded="true"/>
-          <DOMFolderItem name="Components/Expt Assets" itemID="5ba81ded-00002385" isExpanded="true"/>
+          <DOMFolderItem name="Components/Expt Assets" itemID="5ba81ded-00002385"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
           <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
@@ -117,7 +117,7 @@
           <Include href="Components/Expt Assets/TC_TObject__Expt3b.xml" loadImmediate="false" itemID="5ba81bd2-00002336" lastModified="1537743826"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt4a.xml" loadImmediate="false" itemID="5ba81c87-00002352" lastModified="1537744007"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt4b.xml" loadImmediate="false" itemID="5ba81c53-0000233f" lastModified="1537743955"/>
-          <Include href="Components/TC_TObject__Expt.xml" itemID="5ba815fb-000021be" lastModified="1537744312"/>
+          <Include href="Components/TC_TObject__Expt.xml" itemID="5ba815fb-000021be" lastModified="1537807306"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b956ec5-00000b08" lastModified="1537036472"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b956ecf-00000b0a" lastModified="1537036481"/>
           <Include href="Components/TC_TObject__Vars.xml" itemID="5b956eca-00000b09" lastModified="1537742389"/>
