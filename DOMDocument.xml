@@ -15,15 +15,20 @@
           <DOMFolderItem name="Assets/animationobjects/CBackgroundassets" itemID="5af9c5e6-00000336" isExpanded="true"/>
           <DOMFolderItem name="Assets/animationobjects/CCrystal Assets" itemID="5af9c5e6-00000337" isExpanded="true"/>
           <DOMFolderItem name="Assets/animationobjects/CDOJarAssets" itemID="5af9c5e6-00000338"/>
+          <DOMFolderItem name="Assets/Bottle Assets copy" itemID="5af5d9fb-000006b4"/>
           <DOMFolderItem name="Assets/Calendar Assets" itemID="5a9d67ac-00000072"/>
           <DOMFolderItem name="Assets/CBackgroundassets" itemID="5a2eeae3-00000190"/>
+          <DOMFolderItem name="Assets/CCup Assets" itemID="5a2a9eee-00000028"/>
           <DOMFolderItem name="Assets/CDOJarAssets" itemID="5a25a583-00000047"/>
+          <DOMFolderItem name="Assets/CLabelAssets" itemID="5a2aa19a-0000008f"/>
           <DOMFolderItem name="Assets/Crystals" itemID="5abd4372-00000e2b"/>
           <DOMFolderItem name="Assets/Crystals/CCrystal Assets" itemID="5a28146b-0000006a" isExpanded="true"/>
           <DOMFolderItem name="Assets/Crystals/JarsVariablesCombined" itemID="5abd48a9-000002d9" isExpanded="true"/>
+          <DOMFolderItem name="Assets/MintAssets" itemID="5a2a9f1c-0000002e"/>
+          <DOMFolderItem name="Assets/NewCO2Bottles" itemID="5a79f35e-00000268"/>
           <DOMFolderItem name="Assets/PencilStringAssets" itemID="5abd4869-000002d4"/>
           <DOMFolderItem name="Components" itemID="5b92f7fd-000020f0" isExpanded="true"/>
-          <DOMFolderItem name="Components/Expt Assets" itemID="5ba81ded-00002385" isExpanded="true"/>
+          <DOMFolderItem name="Components/Expt Assets" itemID="5ba81ded-00002385"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
           <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
@@ -117,6 +122,8 @@
           <Include href="Components/Expt Assets/TC_TObject__Calllout4b.xml" loadImmediate="false" itemID="5ba92b62-00000cee" lastModified="1537813346"/>
           <Include href="Components/Expt Assets/TC_TObject__Callout.xml" loadImmediate="false" itemID="5ba81883-00002275" lastModified="1537742979"/>
           <Include href="Components/Expt Assets/TC_TObject__CalloutLong.xml" loadImmediate="false" itemID="5ba81901-0000227e" lastModified="1537743138"/>
+          <Include href="Components/Expt Assets/TC_TObject__CondTitle1.xml" loadImmediate="false" itemID="5ba92f0b-00000ebf" lastModified="1537814283"/>
+          <Include href="Components/Expt Assets/TC_TObject__CondTitle2.xml" loadImmediate="false" itemID="5ba92f11-00000ec3" lastModified="1537814289"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt1a.xml" loadImmediate="false" itemID="5ba81ca8-00002355" lastModified="1537813377"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt1b.xml" loadImmediate="false" itemID="5ba81cbc-00002361" lastModified="1537813403"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt2a.xml" loadImmediate="false" itemID="5ba81cd0-00002370" lastModified="1537813427"/>
@@ -154,7 +161,8 @@
           <Include href="Scenes/TC_TScene__RQmaterials.xml" itemID="5b956e48-00000afd" lastModified="1537567665"/>
           <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b95850e-00000db0" lastModified="1537124853"/>
           <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b956e79-00000b00" lastModified="1536519801"/>
-          <Include href="Scenes/TC_TScene__TEDExpt.xml" loadImmediate="false" itemID="5ba9282a-00000bb3" lastModified="1537812842"/>
+          <Include href="Scenes/TC_TScene__TEDExpt.xml" itemID="5ba9282a-00000bb3" lastModified="1537818533"/>
+          <Include href="Scenes/TC_TScene__TEDQuest.xml" itemID="5ba93efc-00001003" lastModified="1537818387"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
      </symbols>
      <timelines>
