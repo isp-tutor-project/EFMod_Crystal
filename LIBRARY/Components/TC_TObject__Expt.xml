@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Expt" itemID="5ba815fb-000021be" linkageExportForAS="true" linkageClassName="TC_TObject__Expt" lastModified="1537809592" lastUniqueIdentifier="8">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Expt" itemID="5ba815fb-000021be" linkageExportForAS="true" linkageClassName="TC_TObject__Expt" lastModified="1537813468" lastUniqueIdentifier="8">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
@@ -25,7 +25,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt3b" name="Svar3b" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt3b" name="Svar3b">
                   <matrix>
                     <Matrix a="1.38682556152344" d="1.38681030273438" tx="428.35" ty="224.9"/>
                   </matrix>
@@ -57,7 +57,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt4b" name="Svar4b">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt4b" name="Svar4b" selected="true">
                   <matrix>
                     <Matrix a="1.38682556152344" d="1.38681030273438" tx="111.35" ty="121.4"/>
                   </matrix>
@@ -121,7 +121,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt2b" name="Svar2b">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt2b" name="Svar2b" selected="true">
                   <matrix>
                     <Matrix a="1.38682556152344" d="1.38681030273438" tx="326.95" ty="295.45"/>
                   </matrix>

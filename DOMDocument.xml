@@ -107,18 +107,26 @@
           <Include href="Assets/TC_TObject__HandDroppingorholding.xml" loadImmediate="false" itemID="5ba56ad5-00000fc8" lastModified="1537567445"/>
           <Include href="Assets/TC_TObject__scalenumber.xml" loadImmediate="false" itemID="5ba57001-0000117e" lastModified="1537568769"/>
           <Include href="Assets/TC_TObject__Steam.xml" loadImmediate="false" itemID="5ba81691-000021c0" lastModified="1537742481"/>
+          <Include href="Components/Expt Assets/TC_TObject__Calllout1a.xml" loadImmediate="false" itemID="5ba92b7b-00000cf5" lastModified="1537813371"/>
+          <Include href="Components/Expt Assets/TC_TObject__Calllout1b.xml" loadImmediate="false" itemID="5ba92b96-00000cfc" lastModified="1537813398"/>
+          <Include href="Components/Expt Assets/TC_TObject__Calllout2a.xml" loadImmediate="false" itemID="5ba92bae-00000d03" lastModified="1537813422"/>
+          <Include href="Components/Expt Assets/TC_TObject__Calllout2b.xml" loadImmediate="false" itemID="5ba92bc2-00000d0a" lastModified="1537813442"/>
+          <Include href="Components/Expt Assets/TC_TObject__Calllout3a.xml" loadImmediate="false" itemID="5ba92a20-00000cd9" lastModified="1537813024"/>
+          <Include href="Components/Expt Assets/TC_TObject__Calllout3b.xml" loadImmediate="false" itemID="5ba92b17-00000ce0" lastModified="1537813271"/>
+          <Include href="Components/Expt Assets/TC_TObject__Calllout4a.xml" loadImmediate="false" itemID="5ba92b42-00000ce7" lastModified="1537813314"/>
+          <Include href="Components/Expt Assets/TC_TObject__Calllout4b.xml" loadImmediate="false" itemID="5ba92b62-00000cee" lastModified="1537813346"/>
           <Include href="Components/Expt Assets/TC_TObject__Callout.xml" loadImmediate="false" itemID="5ba81883-00002275" lastModified="1537742979"/>
           <Include href="Components/Expt Assets/TC_TObject__CalloutLong.xml" loadImmediate="false" itemID="5ba81901-0000227e" lastModified="1537743138"/>
-          <Include href="Components/Expt Assets/TC_TObject__Expt1a.xml" loadImmediate="false" itemID="5ba81ca8-00002355" lastModified="1537809482"/>
-          <Include href="Components/Expt Assets/TC_TObject__Expt1b.xml" loadImmediate="false" itemID="5ba81cbc-00002361" lastModified="1537809516"/>
-          <Include href="Components/Expt Assets/TC_TObject__Expt2a.xml" loadImmediate="false" itemID="5ba81cd0-00002370" lastModified="1537809549"/>
-          <Include href="Components/Expt Assets/TC_TObject__Expt2b.xml" loadImmediate="false" itemID="5ba81ce0-00002379" lastModified="1537809585"/>
-          <Include href="Components/Expt Assets/TC_TObject__Expt3a.xml" loadImmediate="false" itemID="5ba81c8d-00002353" lastModified="1537809409"/>
-          <Include href="Components/Expt Assets/TC_TObject__Expt3b.xml" loadImmediate="false" itemID="5ba81bd2-00002336" lastModified="1537809445"/>
-          <Include href="Components/Expt Assets/TC_TObject__Expt4a.xml" loadImmediate="false" itemID="5ba81c87-00002352" lastModified="1537809336"/>
-          <Include href="Components/Expt Assets/TC_TObject__Expt4b.xml" loadImmediate="false" itemID="5ba81c53-0000233f" lastModified="1537809374"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt1a.xml" loadImmediate="false" itemID="5ba81ca8-00002355" lastModified="1537813377"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt1b.xml" loadImmediate="false" itemID="5ba81cbc-00002361" lastModified="1537813403"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt2a.xml" loadImmediate="false" itemID="5ba81cd0-00002370" lastModified="1537813427"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt2b.xml" loadImmediate="false" itemID="5ba81ce0-00002379" lastModified="1537813446"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt3a.xml" loadImmediate="false" itemID="5ba81c8d-00002353" lastModified="1537813036"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt3b.xml" loadImmediate="false" itemID="5ba81bd2-00002336" lastModified="1537813280"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt4a.xml" loadImmediate="false" itemID="5ba81c87-00002352" lastModified="1537813321"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt4b.xml" loadImmediate="false" itemID="5ba81c53-0000233f" lastModified="1537813352"/>
           <Include href="Components/Expt Assets/TC_TObject__Highlight.xml" loadImmediate="false" itemID="5ba91b96-00000878" lastModified="1537809302"/>
-          <Include href="Components/TC_TObject__Expt.xml" itemID="5ba815fb-000021be" lastModified="1537809592"/>
+          <Include href="Components/TC_TObject__Expt.xml" itemID="5ba815fb-000021be" lastModified="1537813468"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b956ec5-00000b08" lastModified="1537036472"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b956ecf-00000b0a" lastModified="1537036481"/>
           <Include href="Components/TC_TObject__Vars.xml" itemID="5b956eca-00000b09" lastModified="1537742389"/>
@@ -146,6 +154,7 @@
           <Include href="Scenes/TC_TScene__RQmaterials.xml" itemID="5b956e48-00000afd" lastModified="1537567665"/>
           <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b95850e-00000db0" lastModified="1537124853"/>
           <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b956e79-00000b00" lastModified="1536519801"/>
+          <Include href="Scenes/TC_TScene__TEDExpt.xml" loadImmediate="false" itemID="5ba9282a-00000bb3" lastModified="1537812842"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
      </symbols>
      <timelines>

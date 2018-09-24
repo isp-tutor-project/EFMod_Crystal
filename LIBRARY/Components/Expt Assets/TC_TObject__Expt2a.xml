@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt2a" itemID="5ba81cd0-00002370" lastModified="1537809549">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt2a" itemID="5ba81cd0-00002370" lastModified="1537813427" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="TC_TObject__Expt2a">
       <layers>
@@ -22,27 +22,14 @@
                     <Point y="0.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CalloutLong">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Calllout2a" name="ScallOut">
                   <matrix>
-                    <Matrix a="-1" tx="244.2" ty="88.65"/>
+                    <Matrix tx="101.8" ty="60.4"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="32.65" y="15.65"/>
+                    <Point x="119.9" y="29.8"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMDynamicText fontRenderingMode="standard" width="91.35" height="19.4" isSelectable="false" lineType="multiline">
-                  <matrix>
-                    <Matrix tx="249.8" ty="98.6"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>Salt</characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="19.4" size="15" bitmapSize="300" face="PTSans-Bold"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMDynamicText>
               </elements>
             </DOMFrame>
           </frames>

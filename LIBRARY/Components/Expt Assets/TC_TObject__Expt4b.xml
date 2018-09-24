@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt4b" itemID="5ba81c53-0000233f" lastModified="1537809374">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt4b" itemID="5ba81c53-0000233f" lastModified="1537813352" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="TC_TObject__Expt4b">
       <layers>
@@ -22,27 +22,14 @@
                     <Point x="0.1" y="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CalloutLong">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Calllout4b" name="ScallOut">
                   <matrix>
-                    <Matrix tx="86.2" ty="75.25"/>
+                    <Matrix ty="47"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="32.65" y="15.65"/>
+                    <Point x="115.05" y="29.8"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMDynamicText fontRenderingMode="standard" left="156.1" width="77.35" height="19.4" isSelectable="false" lineType="multiline">
-                  <matrix>
-                    <Matrix tx="-154.1" ty="85.2"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>Yarn</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="right" aliasText="false" autoKern="false" lineHeight="19.4" size="15" bitmapSize="300" face="PTSans-Bold"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMDynamicText>
               </elements>
             </DOMFrame>
           </frames>
