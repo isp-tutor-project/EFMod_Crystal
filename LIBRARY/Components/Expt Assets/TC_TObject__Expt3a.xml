@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt3a" itemID="5ba81c8d-00002353" lastModified="1537813036" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt3a" itemID="5ba81c8d-00002353" lastModified="1538926227" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="TC_TObject__Expt3a">
       <layers>
@@ -13,6 +13,9 @@
                   <transformationPoint>
                     <Point x="63.5" y="25"/>
                   </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/Crystals/CCrystal Assets/TC_TObject__seedcrystalsonstring" name="Svar3b">
                   <matrix>
@@ -29,6 +32,9 @@
                   <transformationPoint>
                     <Point x="119.9" y="29.8"/>
                   </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>

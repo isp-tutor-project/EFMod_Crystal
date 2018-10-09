@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt1b" itemID="5ba81cbc-00002361" lastModified="1537813403" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt1b" itemID="5ba81cbc-00002361" lastModified="1538926276" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="TC_TObject__Expt1b">
       <layers>
@@ -13,6 +13,9 @@
                   <transformationPoint>
                     <Point x="63.45" y="25"/>
                   </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/Crystals/JarsVariablesCombined/TC_TObject__CjarHotWater" name="Svar1b" cacheAsBitmap="true" centerPoint3DX="290.55" centerPoint3DY="234.35">
                   <matrix>
@@ -29,6 +32,9 @@
                   <transformationPoint>
                     <Point x="104.35" y="15.65"/>
                   </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
