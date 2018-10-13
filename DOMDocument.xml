@@ -27,11 +27,11 @@
           <DOMFolderItem name="Assets/MintAssets" itemID="5a2a9f1c-0000002e"/>
           <DOMFolderItem name="Assets/NewCO2Bottles" itemID="5a79f35e-00000268"/>
           <DOMFolderItem name="Assets/PencilStringAssets" itemID="5abd4869-000002d4"/>
-          <DOMFolderItem name="Components" itemID="5b92f7fd-000020f0" isExpanded="true"/>
-          <DOMFolderItem name="Components/Expt Assets" itemID="5ba81ded-00002385" isExpanded="true"/>
+          <DOMFolderItem name="Components" itemID="5b92f7fd-000020f0"/>
+          <DOMFolderItem name="Components/Expt Assets" itemID="5ba81ded-00002385"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
-          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
+          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0"/>
      </folders>
      <media>
           <DOMBitmapItem name="____componentassets____/TutorModule" itemID="5ad39ecb-000002ce" sourceLastImported="1512163249" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/TutorModule.png" bitmapDataHRef="M 3 1523818176.dat" frameLeft="140" frameTop="1720" frameRight="780" frameBottom="2360"/>
