@@ -31,7 +31,7 @@
           <DOMFolderItem name="Components/Expt Assets" itemID="5ba81ded-00002385"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
-          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0"/>
+          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
      </folders>
      <media>
           <DOMBitmapItem name="____componentassets____/TutorModule" itemID="5ad39ecb-000002ce" sourceLastImported="1512163249" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/TutorModule.png" bitmapDataHRef="M 3 1523818176.dat" frameLeft="140" frameTop="1720" frameRight="780" frameBottom="2360"/>
@@ -137,7 +137,7 @@
           <Include href="Components/Expt Assets/TC_TObject__Highlight.xml" loadImmediate="false" itemID="5ba91b96-00000878" lastModified="1537809302"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b956ec5-00000b08" lastModified="1537036472"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b956ecf-00000b0a" lastModified="1537036481"/>
-          <Include href="Components/TC_TObject__Vars.xml" itemID="5b956eca-00000b09" lastModified="1537742389"/>
+          <Include href="Components/TC_TObject__Vars.xml" itemID="5b956eca-00000b09" lastModified="1539621485"/>
           <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb90e5-00002ebd" lastModified="1539018983"/>
           <Include href="Exports/TL_Crystal__Movie.xml" loadImmediate="false" itemID="5b956ed6-00000b0b" lastModified="1536519894"/>
           <Include href="Exports/TL_Crystal__RQintro1.xml" loadImmediate="false" itemID="5b958710-00000f28" lastModified="1536526096"/>
@@ -152,7 +152,7 @@
           <Include href="Exports/TL_Crystal__RQvariables.xml" loadImmediate="false" itemID="5b958731-00000f30" lastModified="1536526129"/>
           <Include href="Exports/TL_Crystal__Topic.xml" loadImmediate="false" itemID="5b956ee2-00000b0c" lastModified="1536519906"/>
           <Include href="Exports/TL_Crystal__Vars.xml" loadImmediate="false" itemID="5b956ee7-00000b0d" lastModified="1536519911"/>
-          <Include href="Scenes/TC_TScene__RQenumVars.xml" itemID="5b9e964f-000008bc" lastModified="1537139634"/>
+          <Include href="Scenes/TC_TScene__RQenumVars.xml" itemID="5b9e964f-000008bc" lastModified="1539621333"/>
           <Include href="Scenes/TC_TScene__RQintro1.xml" itemID="5ba3b876-0000038d" lastModified="1537570130"/>
           <Include href="Scenes/TC_TScene__RQintro2.xml" itemID="5ba3b99d-00000406" lastModified="1537647370"/>
           <Include href="Scenes/TC_TScene__RQintro3.xml" itemID="5ba5715a-0000119f" lastModified="1537647395"/>
