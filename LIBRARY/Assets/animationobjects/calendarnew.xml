@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/animationobjects/calendarnew" itemID="5a30206e-00000045" lastModified="1528742219">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/animationobjects/calendarnew" itemID="5a30206e-00000045" lastModified="1540316512">
   <timeline>
     <DOMTimeline name="calendarnew">
       <layers>
@@ -30,18 +30,18 @@
                   </strokes>
                   <edges>
                     <Edge fillStyle1="1" strokeStyle="1" edges="!-1361 -738|-1361 -1305!-1361 -1305[-1361 -1358 -1308 -1358!-1308 -1358|1307 -1358!1307 -1358[1361 -1358 1361 -1305!1361 -1305|1361 -739"/>
-                    <Edge strokeStyle="2" edges="!613 -444|613 -131!280 -464|280 -131!280 -131|613 -131!1023 -464|1026 -464!1026 -464|1026 -131!1026 -131|1026 -114"/>
+                    <Edge strokeStyle="2" edges="!280 -464|280 -131!280 -131|613 -131!613 -444|613 -131"/>
                     <Edge fillStyle1="1" strokeStyle="1" edges="!1361 -739[1359 -691 1307 -691!1307 -691|-1308 -691!-1308 -691[-1359 -691 -1361 -738"/>
-                    <Edge strokeStyle="2" edges="!280 -464|1023 -464!1023 -464|613 -131!613 -131|1026 -131!-987 -131|-987 -464!-987 -464|-400 -464!-693 -447|-693 -131!-80 -464|-80 -131!-400 -464|-400 -131!-400 -131|-80 -131!-400 -464|-80 -464!-693 -131|-400 -131!-987 -131|-693 -131
-!-80 149|-80 455!-400 149|-400 455!-400 455|-80 455!-400 149|-80 149!-693 149|-693 455!-400 736|-80 736!-693 736|-400 736!-693 455|-400 455!-693 149|-400 149!-80 455|-80 736!-693 455|-693 736!-400 455|-400 736!-987 455|-987 149!-987 735
-|-987 455"/>
+                    <Edge strokeStyle="2" edges="!1026 -131|1026 -114!1023 -464|1026 -464!1026 -464|1026 -131!613 -131|1026 -131!1023 -464|613 -131!280 -464|1023 -464!-987 -131|-987 -464!-987 -464|-400 -464!-693 -447|-693 -131!-80 -464|-80 -131!-400 -464|-400 -131!-400 -464|-80 -464
+!-400 -131|-80 -131!-693 -131|-400 -131!-987 -131|-693 -131!-80 149|-80 455!-400 149|-400 455!-400 455|-80 455!-400 149|-80 149!-693 149|-693 455!-400 736|-80 736!-400 455|-400 736!-693 455|-693 736!-80 455|-80 736!-693 736|-400 736!-693
+ 455|-400 455!-693 149|-400 149!-987 735|-987 455!-987 455|-987 149"/>
                     <Edge strokeStyle="1" edges="
 !1361 -739|1361 1306!1361 1306[1361 1359 1307 1359!1307 1359|-1308 1359!-1308 1359[-1361 1359 -1361 1306!-1361 1306|-1361 -738"/>
                     <Edge strokeStyle="2" edges="
-!-80 1015|-400 1015!-400 1015|-693 1015!-693 1015|-987 1015!-987 1015|-987 735!-987 455|-693 455!-987 149|-693 149!-987 735|-693 736!-80 736|-80 1015!-400 736|-400 1015!-693 736|-693 1015!1026 455|1026 736!1026 149|1026 455!280 149|613
- 149!280 455|613 455!280 455|280 736!613 455|613 736!280 736|613 736!613 736|614 736!280 149|280 455!613 149|613 455!280 1015|1026 1018!1026 1018|1026 736!613 736|613 1008!613 1008|1026 736!613 149|1026 149!1026 149|613 455!613 455|1026
- 455!1026 455|614 736!614 736|1026 736!280 736|280 1015!1026 -114|613 149!280 -131|280 149!613 -131|613 149!1026 -114|1026 149!-80 -131|-80 149!-400 -131|-400 149!-693 -131|-693 149!-987 149|-987 -131!-80 -131|280 -131!-80 149|280 149
-!-80 455|280 455!280 1015|-80 1015!-80 -464|280 -464!-80 736|280 736"/>
+!-400 1015|-693 1015!-80 1015|-400 1015!-693 736|-693 1015!-400 736|-400 1015!-80 736|-80 1015!-987 735|-693 736!-987 149|-693 149!-987 455|-693 455!-693 1015|-987 1015!-987 1015|-987 735!1026 149|1026 455!1026 455|1026 736!613 149|613
+ 455!280 149|280 455!613 736|614 736!280 736|613 736!613 455|613 736!280 455|280 736!280 455|613 455!280 149|613 149!280 736|280 1015!614 736|1026 736!1026 455|614 736!613 455|1026 455!1026 149|613 455!613 149|1026 149!613 736|613 1008
+!613 1008|1026 736!280 1015|1026 1018!1026 1018|1026 736!-80 736|280 736!-80 -464|280 -464!280 1015|-80 1015!-80 455|280 455!-80 149|280 149!-80 -131|280 -131!-987 149|-987 -131!-693 -131|-693 149!-400 -131|-400 149!-80 -131|-80 149!1026
+ -114|1026 149!613 -131|613 149!280 -131|280 149!1026 -114|613 149"/>
                     <Edge cubics="!280 455(;280,455 613,455 613,455q280 455 613 455);"/>
                     <Edge cubics="!613 149(;613,149 613,455 613,455q613 149 613 455);"/>
                     <Edge cubics="!280 149(;280,149 280,455 280,455q280 149 280 455);"/>
@@ -49,24 +49,32 @@
                     <Edge cubics="!280 -131(;280,-131 280,149 280,149q280 -131 280 149);"/>
                     <Edge cubics="!280 149(;280,149 613,149 613,149q280 149 613 149);"/>
                     <Edge cubics="!1026 149(;1026,149 1026,455 1026,455q1026 149 1026 455);"/>
-                    <Edge cubics="!280 -464(;280,-464 280,-131 280,-131q280 -464 280 -131);"/>
+                    <Edge cubics="!280 -464(;280,-464 280,-311 280,-311q280 -464 280 -311);"/>
+                    <Edge cubics="!280 -311(;280,-311 280,-237 280,-237q280 -311 280 -237);"/>
+                    <Edge cubics="!280 -237(;280,-237 280,-131 280,-131q280 -237 280 -131);"/>
                     <Edge cubics="!613 455(;613,455 1026,455 1026,455q613 455 1026 455);"/>
                     <Edge cubics="!613 149(;613,149 1026,149 1026,149q613 149 1026 149);"/>
                     <Edge cubics="!1026 -464(;1026,-464 1026,-131 1026,-131q1026 -464 1026 -131);"/>
                     <Edge cubics="!613 -131(;613,-131 1026,-131 1026,-131q613 -131 1026 -131);"/>
                     <Edge cubics="!-987 455(;-987,455 -987,149 -987,149q-987 455 -987 149);"/>
                     <Edge cubics="!-987 149(;-987,149 -987,-131 -987,-131q-987 149 -987 -131);"/>
-                    <Edge cubics="!-987 -131(;-987,-131 -987,-464 -987,-464q-987 -131 -987 -464);"/>
+                    <Edge cubics="!-987 -131(;-987,-131 -987,-237 -987,-237q-987 -131 -987 -237);"/>
+                    <Edge cubics="!-987 -237(;-987,-237 -987,-311 -987,-311q-987 -237 -987 -311);"/>
+                    <Edge cubics="!-987 -311(;-987,-311 -987,-464 -987,-464q-987 -311 -987 -464);"/>
                     <Edge cubics="!-400 149(;-400,149 -400,455 -400,455q-400 149 -400 455);"/>
                     <Edge cubics="!-400 -131(;-400,-131 -400,149 -400,149q-400 -131 -400 149);"/>
                     <Edge cubics="!-80 149(;-80,149 -80,455 -80,455q-80 149 -80 455);"/>
                     <Edge cubics="!-80 -131(;-80,-131 -80,149 -80,149q-80 -131 -80 149);"/>
                     <Edge cubics="!-400 455(;-400,455 -80,455 -80,455q-400 455 -80 455);"/>
-                    <Edge cubics="!-400 -464(;-400,-464 -400,-131 -400,-131q-400 -464 -400 -131);"/>
+                    <Edge cubics="!-400 -464(;-400,-464 -400,-311 -400,-311q-400 -464 -400 -311);"/>
+                    <Edge cubics="!-400 -311(;-400,-311 -400,-237 -400,-237q-400 -311 -400 -237);"/>
+                    <Edge cubics="!-400 -237(;-400,-237 -400,-131 -400,-131q-400 -237 -400 -131);"/>
                     <Edge cubics="!-400 -131(;-400,-131 -80,-131 -80,-131q-400 -131 -80 -131);"/>
                     <Edge cubics="!-400 -464(;-400,-464 -80,-464 -80,-464q-400 -464 -80 -464);"/>
                     <Edge cubics="!-400 149(;-400,149 -80,149 -80,149q-400 149 -80 149);"/>
-                    <Edge cubics="!-80 -464(;-80,-464 -80,-131 -80,-131q-80 -464 -80 -131);"/>
+                    <Edge cubics="!-80 -464(;-80,-464 -80,-311 -80,-311q-80 -464 -80 -311);"/>
+                    <Edge cubics="!-80 -311(;-80,-311 -80,-237 -80,-237q-80 -311 -80 -237);"/>
+                    <Edge cubics="!-80 -237(;-80,-237 -80,-131 -80,-131q-80 -237 -80 -131);"/>
                     <Edge cubics="!-80 1015(;-80,1015 -400,1015 -400,1015q-80 1015 -400 1015);"/>
                     <Edge cubics="!-987 -131(;-987,-131 -693,-131 -693,-131q-987 -131 -693 -131);"/>
                     <Edge cubics="!-693 -131(;-693,-131 -400,-131 -400,-131q-693 -131 -400 -131);"/>
@@ -94,12 +102,16 @@
                     <Edge cubics="!1361 -739(;1361,-739 1361,1306 1361,1306q1361 -739 1361 1306);"/>
                     <Edge cubics="!1307 -691(;1307,-691 -1308,-691 -1308,-691q1307 -691 -1308 -691);"/>
                     <Edge cubics="!1361 -1305(;1361,-1305 1361,-739 1361,-739q1361 -1305 1361 -739);"/>
-                    <Edge cubics="!-693 -447(;-693,-447 -693,-131 -693,-131q-693 -447 -693 -131);"/>
+                    <Edge cubics="!-693 -447(;-693,-447 -693,-311 -693,-311q-693 -447 -693 -311);"/>
+                    <Edge cubics="!-693 -311(;-693,-311 -693,-237 -693,-237q-693 -311 -693 -237);"/>
+                    <Edge cubics="!-693 -237(;-693,-237 -693,-131 -693,-131q-693 -237 -693 -131);"/>
                     <Edge cubics="!613 -444(;613,-444 613,-131 613,-131q613 -444 613 -131);"/>
                     <Edge cubics="!613 -131(;613,-131 613,149 613,149q613 -131 613 149);"/>
                     <Edge cubics="!-1308 -691(;-1343,-691 -1360,-707 -1361,-738q-1308 -691Q-1359 -691q-1361 -738);"/>
                     <Edge cubics="!-1361 -738(;-1361,-738 -1361,-1305 -1361,-1305q-1361 -738 -1361 -1305);"/>
-                    <Edge cubics="!-1361 1306(;-1361,1306 -1361,-738 -1361,-738q-1361 1306 -1361 -738);"/>
+                    <Edge cubics="!-1361 1306(;-1361,1306 -1361,-237 -1361,-237q-1361 1306 -1361 -237);"/>
+                    <Edge cubics="!-1361 -237(;-1361,-237 -1361,-311 -1361,-311q-1361 -237 -1361 -311);"/>
+                    <Edge cubics="!-1361 -311(;-1361,-311 -1361,-738 -1361,-738q-1361 -311 -1361 -738);"/>
                     <Edge cubics="!1023 -464(;1023,-464 1026,-464 1026,-464q1023 -464 1026 -464);"/>
                     <Edge cubics="!1023 -464(;1023,-464 613,-131 613,-131q1023 -464 613 -131);"/>
                     <Edge cubics="!280 -464(;280,-464 1023,-464 1023,-464q280 -464 1023 -464);"/>
@@ -133,28 +145,15 @@
                     <Edge cubics="!1026 736(;1026,736 613,1008 613,1008q1026 736 613 1008);"/>
                   </edges>
                 </DOMShape>
-                <DOMStaticText fontRenderingMode="standard" left="45.85" width="56.55" height="15.4" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" left="45.85" width="16.35" height="5.2" isSelectable="false">
                   <matrix>
-                    <Matrix a="1.33297729492188" d="1.33251953125" tx="-109.05" ty="-20.25"/>
+                    <Matrix a="1.33297729492188" d="1.33251953125" tx="-114.35" ty="-17.55"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>Mon.  Tues.  Wed.  Thurs.   Fri. </characters>
+                      <characters>Mon</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="6.7" size="6" bitmapSize="120" face="Futura-CondensedMedium"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" left="48.15" width="47.7" height="17.6" autoExpand="true" isSelectable="false">
-                  <matrix>
-                    <Matrix a="0.76416015625" d="0.763916015625" tx="-18.25" ty="-21.7"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>Sat.&#xD;                 Sun.</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="7.8" size="7" bitmapSize="140" face="Futura-CondensedMedium"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="5.2" size="4.7" bitmapSize="94" face="Chalkboard"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -168,6 +167,84 @@
                       <characters>Calendar</characters>
                       <textAttrs>
                         <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="28.85" size="22" bitmapSize="440" face="VarelaRound-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" left="45.85" width="11.75" height="5.2" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.33297729492188" d="1.33251953125" tx="-96.3" ty="-17.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Tue</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="5.2" size="4.7" bitmapSize="94" face="Chalkboard"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" left="45.85" width="13.9" height="5.2" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.33297729492188" d="1.33251953125" tx="-81.9" ty="-17.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Wed</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="5.2" size="4.7" bitmapSize="94" face="Chalkboard"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" left="45.85" width="19.1" height="5.2" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.33297729492188" d="1.33251953125" tx="-69.2" ty="-17.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Thu</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="5.2" size="4.7" bitmapSize="94" face="Chalkboard"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" left="45.85" width="16.7" height="5.2" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.33297729492188" d="1.33251953125" tx="-50.8" ty="-17.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Fri</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="5.2" size="4.7" bitmapSize="94" face="Chalkboard"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" left="45.85" width="16.7" height="5.2" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.33297729492188" d="1.33251953125" tx="-35.8" ty="-22.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Sat</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="5.2" size="4.7" bitmapSize="94" face="Chalkboard"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" left="45.85" width="16.7" height="5.2" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.33297729492188" d="1.33251953125" tx="-27.5" ty="-14.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Sun</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="5.2" size="4.7" bitmapSize="94" face="Chalkboard"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

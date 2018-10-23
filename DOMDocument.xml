@@ -55,7 +55,7 @@
           <Include href="_Tutor Global Assets_/TC_TVirtual__SceneRgn.xml" loadImmediate="false" itemID="5b7745af-0000037b" lastModified="1536518598"/>
           <Include href="_Tutor Global Assets_/TutorModule.xml" loadImmediate="false" itemID="5ad39eb8-000002c4" lastModified="1523818168"/>
           <Include href="Assets/animationobjects/Calendar Assets/x.xml" loadImmediate="false" itemID="5af9c5e6-000003a6" lastModified="1528747745"/>
-          <Include href="Assets/animationobjects/calendarnew.xml" loadImmediate="false" itemID="5a30206e-00000045" lastModified="1528742219"/>
+          <Include href="Assets/animationobjects/calendarnew.xml" loadImmediate="false" itemID="5a30206e-00000045" lastModified="1540316512"/>
           <Include href="Assets/animationobjects/CBackgroundassets/table.xml" loadImmediate="false" itemID="5a1c53c1-00000051" lastModified="1511805889"/>
           <Include href="Assets/animationobjects/CCrystal Assets/fullgrowncrystal.xml" loadImmediate="false" itemID="5af9c5e6-00000432" lastModified="1510591259"/>
           <Include href="Assets/animationobjects/CCrystal Assets/salt.xml" loadImmediate="false" itemID="5af9c5e6-0000044c" lastModified="1518104265"/>
@@ -137,7 +137,7 @@
           <Include href="Components/Expt Assets/TC_TObject__Expt4a.xml" loadImmediate="false" itemID="5ba81c87-00002352" lastModified="1538926238"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt4b.xml" loadImmediate="false" itemID="5ba81c53-0000233f" lastModified="1538926289"/>
           <Include href="Components/Expt Assets/TC_TObject__Highlight.xml" loadImmediate="false" itemID="5ba91b96-00000878" lastModified="1537809302"/>
-          <Include href="Components/TC_TObject__Movie.xml" itemID="5b956ec5-00000b08" lastModified="1537036472"/>
+          <Include href="Components/TC_TObject__Movie.xml" itemID="5b956ec5-00000b08" lastModified="1540316406"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b956ecf-00000b0a" lastModified="1537036481"/>
           <Include href="Components/TC_TObject__Vars.xml" itemID="5b956eca-00000b09" lastModified="1539621485"/>
           <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb90e5-00002ebd" lastModified="1539018983"/>
@@ -163,7 +163,7 @@
           <Include href="Scenes/TC_TScene__RQintro6.xml" itemID="5ba5715f-000011a2" lastModified="1537647454"/>
           <Include href="Scenes/TC_TScene__RQintro7.xml" itemID="5ba57161-000011a3" lastModified="1537647927"/>
           <Include href="Scenes/TC_TScene__RQmaterials.xml" itemID="5b956e48-00000afd" lastModified="1537567665"/>
-          <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b95850e-00000db0" lastModified="1537124853"/>
+          <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b95850e-00000db0" lastModified="1540315491"/>
           <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b956e79-00000b00" lastModified="1536519801"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
      </symbols>
